@@ -1,0 +1,15 @@
+TASK
+{question_text}
+
+LEARNER RESPONSE
+{response_text}
+
+ORIGINAL FEEDBACK
+{feedback}
+
+FAILED QUALITY DIMENSION(S)
+{failed_dimensions}
+
+Revise the feedback so that it addresses the failed dimension(s), remains
+specific and actionable, and does not reveal the final answer or a complete
+solution. Return only the revised feedback.

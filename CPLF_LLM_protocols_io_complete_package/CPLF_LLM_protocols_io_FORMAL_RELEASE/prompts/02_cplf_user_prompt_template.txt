@@ -1,0 +1,31 @@
+TASK
+{question_text}
+
+LEARNER RESPONSE
+{response_text}
+
+RESPONSE CORRECTNESS
+{correct}
+
+LEARNER PROFILE SUMMARY
+Concept mastery: {mastery_summary}
+Engagement: {engagement_summary}
+Uncertainty: {uncertainty_summary}
+
+DIAGNOSED LEARNING GAP
+{concept_gap_text}
+
+LIKELY MISCONCEPTION CUES
+{misconception_cues}
+
+RETRIEVED PEDAGOGICAL EVIDENCE
+{retrieved_evidence}
+
+FEEDBACK CONSTRAINTS
+1. Address the most important learning gap first.
+2. Explain the likely reasoning issue without stigmatizing the learner.
+3. Give one or two concrete next actions.
+4. Do not reveal the final answer or a complete solution.
+5. Keep the response within 150 words.
+
+Write only the feedback to the learner.

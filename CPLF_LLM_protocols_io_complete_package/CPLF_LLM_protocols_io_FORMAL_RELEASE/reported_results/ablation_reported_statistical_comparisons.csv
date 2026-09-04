@@ -1,0 +1,3 @@
+comparison,metric,difference,ci_low,ci_high,p_value,p_value_type,interpretation
+CPLF-LLM vs w/o feedback verification,AUC,0.002,-0.001,0.005,0.184,Holm-adjusted,not statistically reliable
+CPLF-LLM vs w/o feedback verification,FQS,0.059,0.051,0.067,<0.001,Holm-adjusted,statistically reliable

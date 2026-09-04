@@ -1,0 +1,35 @@
+family,comparison,metric,paired_mean_difference,ci95_low,ci95_high,raw_p,holm_adjusted_p,resamples,cluster_unit,note
+overall_prediction_auc,CPLF-LLM vs. MCSKT,AUC,0.011,0.008,0.014,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. Adaptive G-UKT,AUC,0.014,0.011,0.017,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. DSMKT,AUC,0.021,0.018,0.024,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. DMC-CDM,AUC,0.025,0.021,0.028,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. GCAKT,AUC,0.026,0.022,0.029,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. QRCL,AUC,0.03,0.026,0.034,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. QIKT,AUC,0.043,0.039,0.047,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. HierCDF,AUC,0.052,0.048,0.057,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. RCD,AUC,0.06,0.055,0.065,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. NeuralCDM,AUC,0.074,0.069,0.079,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. LearnLens,AUC,0.081,0.075,0.087,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. OPPU,AUC,0.093,0.087,0.099,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+overall_prediction_auc,CPLF-LLM vs. LaMP,AUC,0.104,0.098,0.11,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+cognitive_profile_doa,CPLF-LLM vs. NeuralCDM,DOA,0.113,0.107,0.119,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. RCD,DOA,0.095,0.089,0.101,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. HierCDF,DOA,0.081,0.075,0.087,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. QIKT,DOA,0.069,0.064,0.074,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. QRCL,DOA,0.055,0.05,0.06,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. DMC-CDM,DOA,0.041,0.036,0.046,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. DSMKT,DOA,0.033,0.028,0.038,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. GCAKT,DOA,0.036,0.031,0.041,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. Adaptive G-UKT,DOA,0.019,0.015,0.023,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+cognitive_profile_doa,CPLF-LLM vs. MCSKT,DOA,0.014,0.01,0.018,<0.001,<0.001,10000,learner,Learner-level paired-bootstrap comparison for held-out profile evaluation.
+dynamic_prediction_auc,CPLF-LLM vs. MCSKT,AUC,0.011,0.008,0.014,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+dynamic_prediction_auc,CPLF-LLM vs. Adaptive G-UKT,AUC,0.014,0.01,0.018,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+dynamic_prediction_auc,CPLF-LLM vs. DSMKT,AUC,0.021,0.017,0.025,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+dynamic_prediction_auc,CPLF-LLM vs. GCAKT,AUC,0.026,0.022,0.03,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+dynamic_prediction_auc,CPLF-LLM vs. QRCL,AUC,0.03,0.026,0.034,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+dynamic_prediction_auc,CPLF-LLM vs. QIKT,AUC,0.043,0.039,0.047,<0.001,<0.001,10000,learner,"Average across OULAD, ASSIST2009, and EdNet."
+feedback_generation_fqs,CPLF-LLM vs. Direct LLM,FQS,0.141,0.13,0.151,<0.001,<0.001,10000,task case,Paired task-case comparison; small differences from rounded table means are expected.
+feedback_generation_fqs,CPLF-LLM vs. LaMP,FQS,0.166,0.155,0.177,<0.001,<0.001,10000,task case,Paired task-case comparison; small differences from rounded table means are expected.
+feedback_generation_fqs,CPLF-LLM vs. OPPU,FQS,0.147,0.136,0.157,<0.001,<0.001,10000,task case,Paired task-case comparison; small differences from rounded table means are expected.
+feedback_generation_fqs,CPLF-LLM vs. LearnLens,FQS,0.064,0.055,0.073,<0.001,<0.001,10000,task case,Paired task-case comparison; small differences from rounded table means are expected.
+feedback_verification_fqs,After vs. before verification,FQS,0.059,0.051,0.067,<0.001,<0.001,10000,task case,Same held-out feedback cases before and after verification.
