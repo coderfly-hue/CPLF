@@ -1,0 +1,89 @@
+{
+  "paper_title": "A Cognition-Aware Large Language Model Framework for Student Cognitive Profiling and Personalized Learning Feedback in Higher Education and Online Learning",
+  "seeds": [
+    2024,
+    2025,
+    2026,
+    2027,
+    2028
+  ],
+  "prediction_datasets": [
+    "OULAD",
+    "ASSIST2009",
+    "EdNet"
+  ],
+  "feedback_datasets": [
+    "MathDial",
+    "CodeWorkout",
+    "CodeStream"
+  ],
+  "feedback_cases_per_dataset": 600,
+  "feedback_cases_total": 1800,
+  "feedback_methods_expected": [
+    "Direct LLM",
+    "LaMP",
+    "OPPU",
+    "LearnLens",
+    "CPLF-LLM"
+  ],
+  "generator": {
+    "repo_id": "Qwen/Qwen2.5-7B-Instruct",
+    "revision": "acbd96531cda22292a3ceaa67e984955d3965282",
+    "lora_rank": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.05,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ],
+    "epochs": 3,
+    "learning_rate": 0.0002,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.05,
+    "effective_batch_size": 32,
+    "max_sequence_length": 2048,
+    "temperature": 0.3,
+    "top_p": 0.9,
+    "repetition_penalty": 1.05,
+    "feedback_word_limit": 150
+  },
+  "evaluator": {
+    "repo_id": "meta-llama/Llama-3.1-8B-Instruct",
+    "revision": null,
+    "revision_provenance": "The manuscript names the evaluator model but does not identify its immutable revision; original run metadata is required to establish the exact revision.",
+    "temperature": 0.0,
+    "max_new_tokens": 256,
+    "raw_scale": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "normalization": "(raw_score - 1) / 4"
+  },
+  "retrieval": {
+    "embedding_model": "BAAI/bge-base-en-v1.5",
+    "top_k": 5
+  },
+  "prediction": {
+    "max_sequence_length": 200,
+    "ece_bins": 10,
+    "ece_bins_note": "10-bin equal-width ECE is explicit in the released implementation/config; the manuscript equation leaves B symbolic."
+  },
+  "software": {
+    "pytorch": "2.4.1",
+    "transformers": "4.46.3",
+    "peft": "0.13.2",
+    "cuda": "12.1",
+    "reported_gpu": "NVIDIA A100 80GB"
+  },
+  "canonical_evidence_policy": {
+    "rubric_scores": "raw integer evaluator outputs must be retained; normalized values are derived",
+    "ablation": "AUC/ECE must be recomputed from y_true/y_prob; proxy columns are not canonical evidence",
+    "summaries": "paper summaries must be generated from seed-level/per-case artifacts",
+    "ids": "fixed-split and per-case outputs must share the same canonical learner/session ID namespace"
+  }
+}

@@ -1,0 +1,6 @@
+task,comparison,metric,difference,ci_low,ci_high,p_value,p_value_type
+Overall prediction,CPLF-LLM vs MCSKT,AUC,0.011,0.008,0.014,<0.001,Holm-adjusted
+Cognitive profile construction,CPLF-LLM vs MCSKT,DOA,0.014,0.01,0.018,<0.001,Holm-adjusted
+Dynamic learning-state prediction,CPLF-LLM vs MCSKT,AUC,0.011,0.008,0.014,<0.001,Holm-adjusted
+Feedback generation,CPLF-LLM vs LearnLens,FQS,0.064,0.055,0.073,<0.001,Holm-adjusted
+Feedback verification,After vs before verification,FQS,0.059,0.051,0.067,<0.001,Holm-adjusted

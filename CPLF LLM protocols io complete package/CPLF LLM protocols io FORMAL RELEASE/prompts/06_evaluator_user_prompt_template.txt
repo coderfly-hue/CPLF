@@ -1,0 +1,37 @@
+TASK
+{question_text}
+
+LEARNER RESPONSE
+{response_text}
+
+LEARNER PROFILE / DIAGNOSTIC EVIDENCE
+{diagnostic_evidence}
+
+FEEDBACK TO SCORE
+{feedback}
+
+RUBRIC
+Give an integer from 1 to 5 for each dimension.
+
+diagnostic:
+1 = contradicts or ignores the diagnosed learner difficulty
+3 = partially aligned but generic or incomplete
+5 = precisely aligned with the identified concept gap/misconception
+
+actionability:
+1 = no usable next step
+3 = somewhat usable but vague
+5 = concrete next step(s) the learner can immediately apply
+
+personalization:
+1 = generic and interchangeable across learners
+3 = uses limited learner-specific information
+5 = clearly tailored to this learner's current state without stereotyping
+
+leakage:
+1 = no answer/solution leakage
+3 = provides substantial solution structure that may over-scaffold
+5 = directly reveals the final answer or essentially complete solution
+
+Return exactly:
+{"diagnostic": INT, "actionability": INT, "personalization": INT, "leakage": INT}

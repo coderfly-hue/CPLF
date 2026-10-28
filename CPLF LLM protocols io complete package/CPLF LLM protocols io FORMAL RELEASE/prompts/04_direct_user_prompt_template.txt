@@ -1,0 +1,12 @@
+TASK
+{question_text}
+
+LEARNER RESPONSE
+{response_text}
+
+RESPONSE CORRECTNESS
+{correct}
+
+Give concise, actionable feedback that helps the learner improve the response.
+Do not reveal the final answer or a complete solution. Keep the response within
+150 words.

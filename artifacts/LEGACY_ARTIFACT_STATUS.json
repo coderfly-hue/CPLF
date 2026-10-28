@@ -1,0 +1,17 @@
+{
+  "legacy_feedback_outputs": {
+    "path": "CPLF LLM protocols io complete package/CPLF LLM protocols io FORMAL RELEASE/per_case_outputs/feedback_outputs.csv",
+    "status": "noncanonical_historical_export",
+    "reason": "rubric columns are continuous and do not preserve the manuscript-specified raw 1--5 evaluator outputs"
+  },
+  "legacy_ablation_outputs": {
+    "path": "CPLF LLM protocols io complete package/CPLF LLM protocols io FORMAL RELEASE/per_case_outputs/ablation_outputs.csv",
+    "status": "noncanonical_historical_export",
+    "reason": "contains pred_score_proxy/ece_case_proxy rather than y_true/y_prob observations"
+  },
+  "legacy_prediction_outputs": {
+    "path": "CPLF LLM protocols io complete package/CPLF LLM protocols io FORMAL RELEASE/per_case_outputs/prediction_outputs.csv",
+    "status": "auc_recomputable_but_id_namespace_not_linked_to_fixed_split",
+    "reason": "AUC can be recomputed from y_true/y_prob; learner IDs use a legacy namespace different from fixed_splits"
+  }
+}

@@ -1,0 +1,1336 @@
+analysis,method,dataset,metric,seed,value
+overall_prediction,NeuralCDM,OULAD,AUC,2024,0.823384
+overall_prediction,NeuralCDM,OULAD,AUC,2025,0.817692
+overall_prediction,NeuralCDM,OULAD,AUC,2026,0.806308
+overall_prediction,NeuralCDM,OULAD,AUC,2027,0.812
+overall_prediction,NeuralCDM,OULAD,AUC,2028,0.800616
+overall_prediction,NeuralCDM,OULAD,F1,2024,0.757914
+overall_prediction,NeuralCDM,OULAD,F1,2025,0.744
+overall_prediction,NeuralCDM,OULAD,F1,2026,0.737043
+overall_prediction,NeuralCDM,OULAD,F1,2027,0.730086
+overall_prediction,NeuralCDM,OULAD,F1,2028,0.750957
+overall_prediction,NeuralCDM,ASSIST2009,AUC,2024,0.803
+overall_prediction,NeuralCDM,ASSIST2009,AUC,2025,0.792881
+overall_prediction,NeuralCDM,ASSIST2009,AUC,2026,0.79794
+overall_prediction,NeuralCDM,ASSIST2009,AUC,2027,0.80806
+overall_prediction,NeuralCDM,ASSIST2009,AUC,2028,0.813119
+overall_prediction,NeuralCDM,ASSIST2009,F1,2024,0.773649
+overall_prediction,NeuralCDM,ASSIST2009,F1,2025,0.748351
+overall_prediction,NeuralCDM,ASSIST2009,F1,2026,0.754675
+overall_prediction,NeuralCDM,ASSIST2009,F1,2027,0.767325
+overall_prediction,NeuralCDM,ASSIST2009,F1,2028,0.761
+overall_prediction,NeuralCDM,EdNet,AUC,2024,0.735675
+overall_prediction,NeuralCDM,EdNet,AUC,2025,0.729351
+overall_prediction,NeuralCDM,EdNet,AUC,2026,0.748325
+overall_prediction,NeuralCDM,EdNet,AUC,2027,0.754649
+overall_prediction,NeuralCDM,EdNet,AUC,2028,0.742
+overall_prediction,NeuralCDM,EdNet,F1,2024,0.693411
+overall_prediction,NeuralCDM,EdNet,F1,2025,0.716179
+overall_prediction,NeuralCDM,EdNet,F1,2026,0.685821
+overall_prediction,NeuralCDM,EdNet,F1,2027,0.701
+overall_prediction,NeuralCDM,EdNet,F1,2028,0.708589
+overall_prediction,RCD,OULAD,AUC,2024,0.82194
+overall_prediction,RCD,OULAD,AUC,2025,0.837119
+overall_prediction,RCD,OULAD,AUC,2026,0.83206
+overall_prediction,RCD,OULAD,AUC,2027,0.827
+overall_prediction,RCD,OULAD,AUC,2028,0.816881
+overall_prediction,RCD,OULAD,F1,2024,0.771649
+overall_prediction,RCD,OULAD,F1,2025,0.752675
+overall_prediction,RCD,OULAD,F1,2026,0.765325
+overall_prediction,RCD,OULAD,F1,2027,0.759
+overall_prediction,RCD,OULAD,F1,2028,0.746351
+overall_prediction,RCD,ASSIST2009,AUC,2024,0.807146
+overall_prediction,RCD,ASSIST2009,AUC,2025,0.820427
+overall_prediction,RCD,ASSIST2009,AUC,2026,0.816
+overall_prediction,RCD,ASSIST2009,AUC,2027,0.824854
+overall_prediction,RCD,ASSIST2009,AUC,2028,0.811573
+overall_prediction,RCD,ASSIST2009,F1,2024,0.768308
+overall_prediction,RCD,ASSIST2009,F1,2025,0.774
+overall_prediction,RCD,ASSIST2009,F1,2026,0.785384
+overall_prediction,RCD,ASSIST2009,F1,2027,0.779692
+overall_prediction,RCD,ASSIST2009,F1,2028,0.762616
+overall_prediction,RCD,EdNet,AUC,2024,0.752308
+overall_prediction,RCD,EdNet,AUC,2025,0.746616
+overall_prediction,RCD,EdNet,AUC,2026,0.758
+overall_prediction,RCD,EdNet,AUC,2027,0.769384
+overall_prediction,RCD,EdNet,AUC,2028,0.763692
+overall_prediction,RCD,EdNet,F1,2024,0.702086
+overall_prediction,RCD,EdNet,F1,2025,0.709043
+overall_prediction,RCD,EdNet,F1,2026,0.716
+overall_prediction,RCD,EdNet,F1,2027,0.722957
+overall_prediction,RCD,EdNet,F1,2028,0.729914
+overall_prediction,HierCDF,OULAD,AUC,2024,0.827146
+overall_prediction,HierCDF,OULAD,AUC,2025,0.840427
+overall_prediction,HierCDF,OULAD,AUC,2026,0.844854
+overall_prediction,HierCDF,OULAD,AUC,2027,0.831573
+overall_prediction,HierCDF,OULAD,AUC,2028,0.836
+overall_prediction,HierCDF,OULAD,F1,2024,0.768
+overall_prediction,HierCDF,OULAD,F1,2025,0.762308
+overall_prediction,HierCDF,OULAD,F1,2026,0.779384
+overall_prediction,HierCDF,OULAD,F1,2027,0.756616
+overall_prediction,HierCDF,OULAD,F1,2028,0.773692
+overall_prediction,HierCDF,ASSIST2009,AUC,2024,0.831589
+overall_prediction,HierCDF,ASSIST2009,AUC,2025,0.824
+overall_prediction,HierCDF,ASSIST2009,AUC,2026,0.827795
+overall_prediction,HierCDF,ASSIST2009,AUC,2027,0.820205
+overall_prediction,HierCDF,ASSIST2009,AUC,2028,0.816411
+overall_prediction,HierCDF,ASSIST2009,F1,2024,0.78806
+overall_prediction,HierCDF,ASSIST2009,F1,2025,0.793119
+overall_prediction,HierCDF,ASSIST2009,F1,2026,0.772881
+overall_prediction,HierCDF,ASSIST2009,F1,2027,0.77794
+overall_prediction,HierCDF,ASSIST2009,F1,2028,0.783
+overall_prediction,HierCDF,EdNet,AUC,2024,0.77006
+overall_prediction,HierCDF,EdNet,AUC,2025,0.765
+overall_prediction,HierCDF,EdNet,AUC,2026,0.775119
+overall_prediction,HierCDF,EdNet,AUC,2027,0.754881
+overall_prediction,HierCDF,EdNet,AUC,2028,0.75994
+overall_prediction,HierCDF,EdNet,F1,2024,0.724
+overall_prediction,HierCDF,EdNet,F1,2025,0.717675
+overall_prediction,HierCDF,EdNet,F1,2026,0.736649
+overall_prediction,HierCDF,EdNet,F1,2027,0.730325
+overall_prediction,HierCDF,EdNet,F1,2028,0.711351
+overall_prediction,QIKT,OULAD,AUC,2024,0.831881
+overall_prediction,QIKT,OULAD,AUC,2025,0.842
+overall_prediction,QIKT,OULAD,AUC,2026,0.852119
+overall_prediction,QIKT,OULAD,AUC,2027,0.84706
+overall_prediction,QIKT,OULAD,AUC,2028,0.83694
+overall_prediction,QIKT,OULAD,F1,2024,0.769675
+overall_prediction,QIKT,OULAD,F1,2025,0.763351
+overall_prediction,QIKT,OULAD,F1,2026,0.776
+overall_prediction,QIKT,OULAD,F1,2027,0.782325
+overall_prediction,QIKT,OULAD,F1,2028,0.788649
+overall_prediction,QIKT,ASSIST2009,AUC,2024,0.831
+overall_prediction,QIKT,ASSIST2009,AUC,2025,0.835427
+overall_prediction,QIKT,ASSIST2009,AUC,2026,0.839854
+overall_prediction,QIKT,ASSIST2009,AUC,2027,0.826573
+overall_prediction,QIKT,ASSIST2009,AUC,2028,0.822146
+overall_prediction,QIKT,ASSIST2009,F1,2024,0.800384
+overall_prediction,QIKT,ASSIST2009,F1,2025,0.789
+overall_prediction,QIKT,ASSIST2009,F1,2026,0.783308
+overall_prediction,QIKT,ASSIST2009,F1,2027,0.777616
+overall_prediction,QIKT,ASSIST2009,F1,2028,0.794692
+overall_prediction,QIKT,EdNet,AUC,2024,0.767616
+overall_prediction,QIKT,EdNet,AUC,2025,0.790384
+overall_prediction,QIKT,EdNet,AUC,2026,0.784692
+overall_prediction,QIKT,EdNet,AUC,2027,0.779
+overall_prediction,QIKT,EdNet,AUC,2028,0.773308
+overall_prediction,QIKT,EdNet,F1,2024,0.751914
+overall_prediction,QIKT,EdNet,F1,2025,0.724086
+overall_prediction,QIKT,EdNet,F1,2026,0.738
+overall_prediction,QIKT,EdNet,F1,2027,0.731043
+overall_prediction,QIKT,EdNet,F1,2028,0.744957
+overall_prediction,QRCL,OULAD,AUC,2024,0.847146
+overall_prediction,QRCL,OULAD,AUC,2025,0.864854
+overall_prediction,QRCL,OULAD,AUC,2026,0.860427
+overall_prediction,QRCL,OULAD,AUC,2027,0.856
+overall_prediction,QRCL,OULAD,AUC,2028,0.851573
+overall_prediction,QRCL,OULAD,F1,2024,0.796692
+overall_prediction,QRCL,OULAD,F1,2025,0.802384
+overall_prediction,QRCL,OULAD,F1,2026,0.791
+overall_prediction,QRCL,OULAD,F1,2027,0.779616
+overall_prediction,QRCL,OULAD,F1,2028,0.785308
+overall_prediction,QRCL,ASSIST2009,AUC,2024,0.834411
+overall_prediction,QRCL,ASSIST2009,AUC,2025,0.842
+overall_prediction,QRCL,ASSIST2009,AUC,2026,0.849589
+overall_prediction,QRCL,ASSIST2009,AUC,2027,0.845795
+overall_prediction,QRCL,ASSIST2009,AUC,2028,0.838205
+overall_prediction,QRCL,ASSIST2009,F1,2024,0.79594
+overall_prediction,QRCL,ASSIST2009,F1,2025,0.80606
+overall_prediction,QRCL,ASSIST2009,F1,2026,0.811119
+overall_prediction,QRCL,ASSIST2009,F1,2027,0.790881
+overall_prediction,QRCL,ASSIST2009,F1,2028,0.801
+overall_prediction,QRCL,EdNet,AUC,2024,0.79706
+overall_prediction,QRCL,EdNet,AUC,2025,0.781881
+overall_prediction,QRCL,EdNet,AUC,2026,0.792
+overall_prediction,QRCL,EdNet,AUC,2027,0.802119
+overall_prediction,QRCL,EdNet,AUC,2028,0.78694
+overall_prediction,QRCL,EdNet,F1,2024,0.744675
+overall_prediction,QRCL,EdNet,F1,2025,0.763649
+overall_prediction,QRCL,EdNet,F1,2026,0.751
+overall_prediction,QRCL,EdNet,F1,2027,0.738351
+overall_prediction,QRCL,EdNet,F1,2028,0.757325
+overall_prediction,LaMP,OULAD,AUC,2024,0.788589
+overall_prediction,LaMP,OULAD,AUC,2025,0.781
+overall_prediction,LaMP,OULAD,AUC,2026,0.765821
+overall_prediction,LaMP,OULAD,AUC,2027,0.796179
+overall_prediction,LaMP,OULAD,AUC,2028,0.773411
+overall_prediction,LaMP,OULAD,F1,2024,0.716
+overall_prediction,LaMP,OULAD,F1,2025,0.707146
+overall_prediction,LaMP,OULAD,F1,2026,0.698291
+overall_prediction,LaMP,OULAD,F1,2027,0.733709
+overall_prediction,LaMP,OULAD,F1,2028,0.724854
+overall_prediction,LaMP,ASSIST2009,AUC,2024,0.769957
+overall_prediction,LaMP,ASSIST2009,AUC,2025,0.763
+overall_prediction,LaMP,ASSIST2009,AUC,2026,0.776914
+overall_prediction,LaMP,ASSIST2009,AUC,2027,0.749086
+overall_prediction,LaMP,ASSIST2009,AUC,2028,0.756043
+overall_prediction,LaMP,ASSIST2009,F1,2024,0.721
+overall_prediction,LaMP,ASSIST2009,F1,2025,0.729222
+overall_prediction,LaMP,ASSIST2009,F1,2026,0.737444
+overall_prediction,LaMP,ASSIST2009,F1,2027,0.704556
+overall_prediction,LaMP,ASSIST2009,F1,2028,0.712778
+overall_prediction,LaMP,EdNet,AUC,2024,0.724
+overall_prediction,LaMP,EdNet,AUC,2025,0.732222
+overall_prediction,LaMP,EdNet,AUC,2026,0.740444
+overall_prediction,LaMP,EdNet,AUC,2027,0.707556
+overall_prediction,LaMP,EdNet,AUC,2028,0.715778
+overall_prediction,LaMP,EdNet,F1,2024,0.691487
+overall_prediction,LaMP,EdNet,F1,2025,0.700974
+overall_prediction,LaMP,EdNet,F1,2026,0.682
+overall_prediction,LaMP,EdNet,F1,2027,0.663026
+overall_prediction,LaMP,EdNet,F1,2028,0.672513
+overall_prediction,OPPU,OULAD,AUC,2024,0.787043
+overall_prediction,OPPU,OULAD,AUC,2025,0.794
+overall_prediction,OPPU,OULAD,AUC,2026,0.780086
+overall_prediction,OPPU,OULAD,AUC,2027,0.807914
+overall_prediction,OPPU,OULAD,AUC,2028,0.800957
+overall_prediction,OPPU,OULAD,F1,2024,0.736222
+overall_prediction,OPPU,OULAD,F1,2025,0.728
+overall_prediction,OPPU,OULAD,F1,2026,0.719778
+overall_prediction,OPPU,OULAD,F1,2027,0.711556
+overall_prediction,OPPU,OULAD,F1,2028,0.744444
+overall_prediction,OPPU,ASSIST2009,AUC,2024,0.783649
+overall_prediction,OPPU,ASSIST2009,AUC,2025,0.777325
+overall_prediction,OPPU,ASSIST2009,AUC,2026,0.764675
+overall_prediction,OPPU,ASSIST2009,AUC,2027,0.758351
+overall_prediction,OPPU,ASSIST2009,AUC,2028,0.771
+overall_prediction,OPPU,ASSIST2009,F1,2024,0.723411
+overall_prediction,OPPU,ASSIST2009,F1,2025,0.731
+overall_prediction,OPPU,ASSIST2009,F1,2026,0.746179
+overall_prediction,OPPU,ASSIST2009,F1,2027,0.738589
+overall_prediction,OPPU,ASSIST2009,F1,2028,0.715821
+overall_prediction,OPPU,EdNet,AUC,2024,0.720821
+overall_prediction,OPPU,EdNet,AUC,2025,0.751179
+overall_prediction,OPPU,EdNet,AUC,2026,0.736
+overall_prediction,OPPU,EdNet,AUC,2027,0.743589
+overall_prediction,OPPU,EdNet,AUC,2028,0.728411
+overall_prediction,OPPU,EdNet,F1,2024,0.702854
+overall_prediction,OPPU,EdNet,F1,2025,0.685146
+overall_prediction,OPPU,EdNet,F1,2026,0.711709
+overall_prediction,OPPU,EdNet,F1,2027,0.676291
+overall_prediction,OPPU,EdNet,F1,2028,0.694
+overall_prediction,DMC-CDM,OULAD,AUC,2024,0.869854
+overall_prediction,DMC-CDM,OULAD,AUC,2025,0.856573
+overall_prediction,DMC-CDM,OULAD,AUC,2026,0.852146
+overall_prediction,DMC-CDM,OULAD,AUC,2027,0.865427
+overall_prediction,DMC-CDM,OULAD,AUC,2028,0.861
+overall_prediction,DMC-CDM,OULAD,F1,2024,0.805119
+overall_prediction,DMC-CDM,OULAD,F1,2025,0.784881
+overall_prediction,DMC-CDM,OULAD,F1,2026,0.795
+overall_prediction,DMC-CDM,OULAD,F1,2027,0.80006
+overall_prediction,DMC-CDM,OULAD,F1,2028,0.78994
+overall_prediction,DMC-CDM,ASSIST2009,AUC,2024,0.850795
+overall_prediction,DMC-CDM,ASSIST2009,AUC,2025,0.839411
+overall_prediction,DMC-CDM,ASSIST2009,AUC,2026,0.854589
+overall_prediction,DMC-CDM,ASSIST2009,AUC,2027,0.847
+overall_prediction,DMC-CDM,ASSIST2009,AUC,2028,0.843205
+overall_prediction,DMC-CDM,ASSIST2009,F1,2024,0.810427
+overall_prediction,DMC-CDM,ASSIST2009,F1,2025,0.801573
+overall_prediction,DMC-CDM,ASSIST2009,F1,2026,0.797146
+overall_prediction,DMC-CDM,ASSIST2009,F1,2027,0.814854
+overall_prediction,DMC-CDM,ASSIST2009,F1,2028,0.806
+overall_prediction,DMC-CDM,EdNet,AUC,2024,0.787881
+overall_prediction,DMC-CDM,EdNet,AUC,2025,0.808119
+overall_prediction,DMC-CDM,EdNet,AUC,2026,0.798
+overall_prediction,DMC-CDM,EdNet,AUC,2027,0.79294
+overall_prediction,DMC-CDM,EdNet,AUC,2028,0.80306
+overall_prediction,DMC-CDM,EdNet,F1,2024,0.744616
+overall_prediction,DMC-CDM,EdNet,F1,2025,0.767384
+overall_prediction,DMC-CDM,EdNet,F1,2026,0.750308
+overall_prediction,DMC-CDM,EdNet,F1,2027,0.761692
+overall_prediction,DMC-CDM,EdNet,F1,2028,0.756
+overall_prediction,DSMKT,OULAD,AUC,2024,0.862205
+overall_prediction,DSMKT,OULAD,AUC,2025,0.858411
+overall_prediction,DSMKT,OULAD,AUC,2026,0.869795
+overall_prediction,DSMKT,OULAD,AUC,2027,0.866
+overall_prediction,DSMKT,OULAD,AUC,2028,0.873589
+overall_prediction,DSMKT,OULAD,F1,2024,0.801
+overall_prediction,DSMKT,OULAD,F1,2025,0.811119
+overall_prediction,DSMKT,OULAD,F1,2026,0.80606
+overall_prediction,DSMKT,OULAD,F1,2027,0.790881
+overall_prediction,DSMKT,OULAD,F1,2028,0.79594
+overall_prediction,DSMKT,ASSIST2009,AUC,2024,0.841411
+overall_prediction,DSMKT,ASSIST2009,AUC,2025,0.845205
+overall_prediction,DSMKT,ASSIST2009,AUC,2026,0.856589
+overall_prediction,DSMKT,ASSIST2009,AUC,2027,0.849
+overall_prediction,DSMKT,ASSIST2009,AUC,2028,0.852795
+overall_prediction,DSMKT,ASSIST2009,F1,2024,0.812427
+overall_prediction,DSMKT,ASSIST2009,F1,2025,0.816854
+overall_prediction,DSMKT,ASSIST2009,F1,2026,0.803573
+overall_prediction,DSMKT,ASSIST2009,F1,2027,0.808
+overall_prediction,DSMKT,ASSIST2009,F1,2028,0.799146
+overall_prediction,DSMKT,EdNet,AUC,2024,0.807427
+overall_prediction,DSMKT,EdNet,AUC,2025,0.811854
+overall_prediction,DSMKT,EdNet,AUC,2026,0.794146
+overall_prediction,DSMKT,EdNet,AUC,2027,0.803
+overall_prediction,DSMKT,EdNet,AUC,2028,0.798573
+overall_prediction,DSMKT,EdNet,F1,2024,0.763
+overall_prediction,DSMKT,EdNet,F1,2025,0.774384
+overall_prediction,DSMKT,EdNet,F1,2026,0.768692
+overall_prediction,DSMKT,EdNet,F1,2027,0.751616
+overall_prediction,DSMKT,EdNet,F1,2028,0.757308
+overall_prediction,GCAKT,OULAD,AUC,2024,0.859
+overall_prediction,GCAKT,OULAD,AUC,2025,0.854573
+overall_prediction,GCAKT,OULAD,AUC,2026,0.850146
+overall_prediction,GCAKT,OULAD,AUC,2027,0.867854
+overall_prediction,GCAKT,OULAD,AUC,2028,0.863427
+overall_prediction,GCAKT,OULAD,F1,2024,0.805384
+overall_prediction,GCAKT,OULAD,F1,2025,0.799692
+overall_prediction,GCAKT,OULAD,F1,2026,0.788308
+overall_prediction,GCAKT,OULAD,F1,2027,0.782616
+overall_prediction,GCAKT,OULAD,F1,2028,0.794
+overall_prediction,GCAKT,ASSIST2009,AUC,2024,0.852589
+overall_prediction,GCAKT,ASSIST2009,AUC,2025,0.848795
+overall_prediction,GCAKT,ASSIST2009,AUC,2026,0.845
+overall_prediction,GCAKT,ASSIST2009,AUC,2027,0.837411
+overall_prediction,GCAKT,ASSIST2009,AUC,2028,0.841205
+overall_prediction,GCAKT,ASSIST2009,F1,2024,0.804
+overall_prediction,GCAKT,ASSIST2009,F1,2025,0.80906
+overall_prediction,GCAKT,ASSIST2009,F1,2026,0.79894
+overall_prediction,GCAKT,ASSIST2009,F1,2027,0.793881
+overall_prediction,GCAKT,ASSIST2009,F1,2028,0.814119
+overall_prediction,GCAKT,EdNet,AUC,2024,0.788881
+overall_prediction,GCAKT,EdNet,AUC,2025,0.809119
+overall_prediction,GCAKT,EdNet,AUC,2026,0.79394
+overall_prediction,GCAKT,EdNet,AUC,2027,0.799
+overall_prediction,GCAKT,EdNet,AUC,2028,0.80406
+overall_prediction,GCAKT,EdNet,F1,2024,0.770649
+overall_prediction,GCAKT,EdNet,F1,2025,0.745351
+overall_prediction,GCAKT,EdNet,F1,2026,0.764325
+overall_prediction,GCAKT,EdNet,F1,2027,0.758
+overall_prediction,GCAKT,EdNet,F1,2028,0.751675
+overall_prediction,LearnLens,OULAD,AUC,2024,0.806
+overall_prediction,LearnLens,OULAD,AUC,2025,0.818649
+overall_prediction,LearnLens,OULAD,AUC,2026,0.793351
+overall_prediction,LearnLens,OULAD,AUC,2027,0.812325
+overall_prediction,LearnLens,OULAD,AUC,2028,0.799675
+overall_prediction,LearnLens,OULAD,F1,2024,0.746589
+overall_prediction,LearnLens,OULAD,F1,2025,0.723821
+overall_prediction,LearnLens,OULAD,F1,2026,0.731411
+overall_prediction,LearnLens,OULAD,F1,2027,0.739
+overall_prediction,LearnLens,OULAD,F1,2028,0.754179
+overall_prediction,LearnLens,ASSIST2009,AUC,2024,0.779308
+overall_prediction,LearnLens,ASSIST2009,AUC,2025,0.773616
+overall_prediction,LearnLens,ASSIST2009,AUC,2026,0.796384
+overall_prediction,LearnLens,ASSIST2009,AUC,2027,0.790692
+overall_prediction,LearnLens,ASSIST2009,AUC,2028,0.785
+overall_prediction,LearnLens,ASSIST2009,F1,2024,0.758914
+overall_prediction,LearnLens,ASSIST2009,F1,2025,0.745
+overall_prediction,LearnLens,ASSIST2009,F1,2026,0.751957
+overall_prediction,LearnLens,ASSIST2009,F1,2027,0.738043
+overall_prediction,LearnLens,ASSIST2009,F1,2028,0.731086
+overall_prediction,LearnLens,EdNet,AUC,2024,0.733086
+overall_prediction,LearnLens,EdNet,AUC,2025,0.747
+overall_prediction,LearnLens,EdNet,AUC,2026,0.753957
+overall_prediction,LearnLens,EdNet,AUC,2027,0.760914
+overall_prediction,LearnLens,EdNet,AUC,2028,0.740043
+overall_prediction,LearnLens,EdNet,F1,2024,0.697778
+overall_prediction,LearnLens,EdNet,F1,2025,0.722444
+overall_prediction,LearnLens,EdNet,F1,2026,0.706
+overall_prediction,LearnLens,EdNet,F1,2027,0.714222
+overall_prediction,LearnLens,EdNet,F1,2028,0.689556
+overall_prediction,Adaptive G-UKT,OULAD,AUC,2024,0.877795
+overall_prediction,Adaptive G-UKT,OULAD,AUC,2025,0.881589
+overall_prediction,Adaptive G-UKT,OULAD,AUC,2026,0.870205
+overall_prediction,Adaptive G-UKT,OULAD,AUC,2027,0.866411
+overall_prediction,Adaptive G-UKT,OULAD,AUC,2028,0.874
+overall_prediction,Adaptive G-UKT,OULAD,F1,2024,0.813427
+overall_prediction,Adaptive G-UKT,OULAD,F1,2025,0.817854
+overall_prediction,Adaptive G-UKT,OULAD,F1,2026,0.800146
+overall_prediction,Adaptive G-UKT,OULAD,F1,2027,0.804573
+overall_prediction,Adaptive G-UKT,OULAD,F1,2028,0.809
+overall_prediction,Adaptive G-UKT,ASSIST2009,AUC,2024,0.858325
+overall_prediction,Adaptive G-UKT,ASSIST2009,AUC,2025,0.855162
+overall_prediction,Adaptive G-UKT,ASSIST2009,AUC,2026,0.845675
+overall_prediction,Adaptive G-UKT,ASSIST2009,AUC,2027,0.852
+overall_prediction,Adaptive G-UKT,ASSIST2009,AUC,2028,0.848838
+overall_prediction,Adaptive G-UKT,ASSIST2009,F1,2024,0.807573
+overall_prediction,Adaptive G-UKT,ASSIST2009,F1,2025,0.803146
+overall_prediction,Adaptive G-UKT,ASSIST2009,F1,2026,0.812
+overall_prediction,Adaptive G-UKT,ASSIST2009,F1,2027,0.820854
+overall_prediction,Adaptive G-UKT,ASSIST2009,F1,2028,0.816427
+overall_prediction,Adaptive G-UKT,EdNet,AUC,2024,0.815427
+overall_prediction,Adaptive G-UKT,EdNet,AUC,2025,0.819854
+overall_prediction,Adaptive G-UKT,EdNet,AUC,2026,0.806573
+overall_prediction,Adaptive G-UKT,EdNet,AUC,2027,0.802146
+overall_prediction,Adaptive G-UKT,EdNet,AUC,2028,0.811
+overall_prediction,Adaptive G-UKT,EdNet,F1,2024,0.77606
+overall_prediction,Adaptive G-UKT,EdNet,F1,2025,0.781119
+overall_prediction,Adaptive G-UKT,EdNet,F1,2026,0.76594
+overall_prediction,Adaptive G-UKT,EdNet,F1,2027,0.771
+overall_prediction,Adaptive G-UKT,EdNet,F1,2028,0.760881
+overall_prediction,MCSKT,OULAD,AUC,2024,0.881162
+overall_prediction,MCSKT,OULAD,AUC,2025,0.878
+overall_prediction,MCSKT,OULAD,AUC,2026,0.874838
+overall_prediction,MCSKT,OULAD,AUC,2027,0.884325
+overall_prediction,MCSKT,OULAD,AUC,2028,0.871675
+overall_prediction,MCSKT,OULAD,F1,2024,0.814
+overall_prediction,MCSKT,OULAD,F1,2025,0.822854
+overall_prediction,MCSKT,OULAD,F1,2026,0.805146
+overall_prediction,MCSKT,OULAD,F1,2027,0.818427
+overall_prediction,MCSKT,OULAD,F1,2028,0.809573
+overall_prediction,MCSKT,ASSIST2009,AUC,2024,0.847675
+overall_prediction,MCSKT,ASSIST2009,AUC,2025,0.860325
+overall_prediction,MCSKT,ASSIST2009,AUC,2026,0.850838
+overall_prediction,MCSKT,ASSIST2009,AUC,2027,0.857162
+overall_prediction,MCSKT,ASSIST2009,AUC,2028,0.854
+overall_prediction,MCSKT,ASSIST2009,F1,2024,0.822589
+overall_prediction,MCSKT,ASSIST2009,F1,2025,0.818795
+overall_prediction,MCSKT,ASSIST2009,F1,2026,0.811205
+overall_prediction,MCSKT,ASSIST2009,F1,2027,0.807411
+overall_prediction,MCSKT,ASSIST2009,F1,2028,0.815
+overall_prediction,MCSKT,EdNet,AUC,2024,0.818795
+overall_prediction,MCSKT,EdNet,AUC,2025,0.811205
+overall_prediction,MCSKT,EdNet,AUC,2026,0.815
+overall_prediction,MCSKT,EdNet,AUC,2027,0.807411
+overall_prediction,MCSKT,EdNet,AUC,2028,0.822589
+overall_prediction,MCSKT,EdNet,F1,2024,0.76994
+overall_prediction,MCSKT,EdNet,F1,2025,0.775
+overall_prediction,MCSKT,EdNet,F1,2026,0.78006
+overall_prediction,MCSKT,EdNet,F1,2027,0.764881
+overall_prediction,MCSKT,EdNet,F1,2028,0.785119
+overall_prediction,CPLF-LLM,OULAD,AUC,2024,0.887205
+overall_prediction,CPLF-LLM,OULAD,AUC,2025,0.883411
+overall_prediction,CPLF-LLM,OULAD,AUC,2026,0.891
+overall_prediction,CPLF-LLM,OULAD,AUC,2027,0.894795
+overall_prediction,CPLF-LLM,OULAD,AUC,2028,0.898589
+overall_prediction,CPLF-LLM,OULAD,F1,2024,0.82806
+overall_prediction,CPLF-LLM,OULAD,F1,2025,0.81794
+overall_prediction,CPLF-LLM,OULAD,F1,2026,0.833119
+overall_prediction,CPLF-LLM,OULAD,F1,2027,0.823
+overall_prediction,CPLF-LLM,OULAD,F1,2028,0.812881
+overall_prediction,CPLF-LLM,ASSIST2009,AUC,2024,0.859675
+overall_prediction,CPLF-LLM,ASSIST2009,AUC,2025,0.862838
+overall_prediction,CPLF-LLM,ASSIST2009,AUC,2026,0.872325
+overall_prediction,CPLF-LLM,ASSIST2009,AUC,2027,0.866
+overall_prediction,CPLF-LLM,ASSIST2009,AUC,2028,0.869162
+overall_prediction,CPLF-LLM,ASSIST2009,F1,2024,0.830795
+overall_prediction,CPLF-LLM,ASSIST2009,F1,2025,0.823205
+overall_prediction,CPLF-LLM,ASSIST2009,F1,2026,0.819411
+overall_prediction,CPLF-LLM,ASSIST2009,F1,2027,0.827
+overall_prediction,CPLF-LLM,ASSIST2009,F1,2028,0.834589
+overall_prediction,CPLF-LLM,EdNet,AUC,2024,0.819205
+overall_prediction,CPLF-LLM,EdNet,AUC,2025,0.815411
+overall_prediction,CPLF-LLM,EdNet,AUC,2026,0.826795
+overall_prediction,CPLF-LLM,EdNet,AUC,2027,0.823
+overall_prediction,CPLF-LLM,EdNet,AUC,2028,0.830589
+overall_prediction,CPLF-LLM,EdNet,F1,2024,0.790427
+overall_prediction,CPLF-LLM,EdNet,F1,2025,0.781573
+overall_prediction,CPLF-LLM,EdNet,F1,2026,0.786
+overall_prediction,CPLF-LLM,EdNet,F1,2027,0.777146
+overall_prediction,CPLF-LLM,EdNet,F1,2028,0.794854
+cognitive_profile,NeuralCDM,OULAD,DOA,2024,0.704
+cognitive_profile,NeuralCDM,OULAD,DOA,2025,0.697675
+cognitive_profile,NeuralCDM,OULAD,DOA,2026,0.710325
+cognitive_profile,NeuralCDM,OULAD,DOA,2027,0.691351
+cognitive_profile,NeuralCDM,OULAD,DOA,2028,0.716649
+cognitive_profile,NeuralCDM,OULAD,ECE,2024,0.123692
+cognitive_profile,NeuralCDM,OULAD,ECE,2025,0.118
+cognitive_profile,NeuralCDM,OULAD,ECE,2026,0.112308
+cognitive_profile,NeuralCDM,OULAD,ECE,2027,0.129384
+cognitive_profile,NeuralCDM,OULAD,ECE,2028,0.106616
+cognitive_profile,NeuralCDM,ASSIST2009,DOA,2024,0.719616
+cognitive_profile,NeuralCDM,ASSIST2009,DOA,2025,0.736692
+cognitive_profile,NeuralCDM,ASSIST2009,DOA,2026,0.725308
+cognitive_profile,NeuralCDM,ASSIST2009,DOA,2027,0.742384
+cognitive_profile,NeuralCDM,ASSIST2009,DOA,2028,0.731
+cognitive_profile,NeuralCDM,ASSIST2009,ECE,2024,0.109
+cognitive_profile,NeuralCDM,ASSIST2009,ECE,2025,0.11406
+cognitive_profile,NeuralCDM,ASSIST2009,ECE,2026,0.098881
+cognitive_profile,NeuralCDM,ASSIST2009,ECE,2027,0.10394
+cognitive_profile,NeuralCDM,ASSIST2009,ECE,2028,0.119119
+cognitive_profile,NeuralCDM,EdNet,DOA,2024,0.685043
+cognitive_profile,NeuralCDM,EdNet,DOA,2025,0.678086
+cognitive_profile,NeuralCDM,EdNet,DOA,2026,0.692
+cognitive_profile,NeuralCDM,EdNet,DOA,2027,0.698957
+cognitive_profile,NeuralCDM,EdNet,DOA,2028,0.705914
+cognitive_profile,NeuralCDM,EdNet,ECE,2024,0.126
+cognitive_profile,NeuralCDM,EdNet,ECE,2025,0.132325
+cognitive_profile,NeuralCDM,EdNet,ECE,2026,0.138649
+cognitive_profile,NeuralCDM,EdNet,ECE,2027,0.119675
+cognitive_profile,NeuralCDM,EdNet,ECE,2028,0.113351
+cognitive_profile,RCD,OULAD,DOA,2024,0.721
+cognitive_profile,RCD,OULAD,DOA,2025,0.715308
+cognitive_profile,RCD,OULAD,DOA,2026,0.709616
+cognitive_profile,RCD,OULAD,DOA,2027,0.732384
+cognitive_profile,RCD,OULAD,DOA,2028,0.726692
+cognitive_profile,RCD,OULAD,ECE,2024,0.10194
+cognitive_profile,RCD,OULAD,ECE,2025,0.107
+cognitive_profile,RCD,OULAD,ECE,2026,0.11206
+cognitive_profile,RCD,OULAD,ECE,2027,0.096881
+cognitive_profile,RCD,OULAD,ECE,2028,0.117119
+cognitive_profile,RCD,ASSIST2009,DOA,2024,0.759119
+cognitive_profile,RCD,ASSIST2009,DOA,2025,0.74394
+cognitive_profile,RCD,ASSIST2009,DOA,2026,0.749
+cognitive_profile,RCD,ASSIST2009,DOA,2027,0.75406
+cognitive_profile,RCD,ASSIST2009,DOA,2028,0.738881
+cognitive_profile,RCD,ASSIST2009,ECE,2024,0.089146
+cognitive_profile,RCD,ASSIST2009,ECE,2025,0.093573
+cognitive_profile,RCD,ASSIST2009,ECE,2026,0.098
+cognitive_profile,RCD,ASSIST2009,ECE,2027,0.102427
+cognitive_profile,RCD,ASSIST2009,ECE,2028,0.106854
+cognitive_profile,RCD,EdNet,DOA,2024,0.717325
+cognitive_profile,RCD,EdNet,DOA,2025,0.704675
+cognitive_profile,RCD,EdNet,DOA,2026,0.723649
+cognitive_profile,RCD,EdNet,DOA,2027,0.711
+cognitive_profile,RCD,EdNet,DOA,2028,0.698351
+cognitive_profile,RCD,EdNet,ECE,2024,0.109308
+cognitive_profile,RCD,EdNet,ECE,2025,0.120692
+cognitive_profile,RCD,EdNet,ECE,2026,0.103616
+cognitive_profile,RCD,EdNet,ECE,2027,0.126384
+cognitive_profile,RCD,EdNet,ECE,2028,0.115
+cognitive_profile,HierCDF,OULAD,DOA,2024,0.724881
+cognitive_profile,HierCDF,OULAD,DOA,2025,0.74006
+cognitive_profile,HierCDF,OULAD,DOA,2026,0.72994
+cognitive_profile,HierCDF,OULAD,DOA,2027,0.745119
+cognitive_profile,HierCDF,OULAD,DOA,2028,0.735
+cognitive_profile,HierCDF,OULAD,ECE,2024,0.105427
+cognitive_profile,HierCDF,OULAD,ECE,2025,0.096573
+cognitive_profile,HierCDF,OULAD,ECE,2026,0.109854
+cognitive_profile,HierCDF,OULAD,ECE,2027,0.101
+cognitive_profile,HierCDF,OULAD,ECE,2028,0.092146
+cognitive_profile,HierCDF,ASSIST2009,DOA,2024,0.770854
+cognitive_profile,HierCDF,ASSIST2009,DOA,2025,0.766427
+cognitive_profile,HierCDF,ASSIST2009,DOA,2026,0.757573
+cognitive_profile,HierCDF,ASSIST2009,DOA,2027,0.762
+cognitive_profile,HierCDF,ASSIST2009,DOA,2028,0.753146
+cognitive_profile,HierCDF,ASSIST2009,ECE,2024,0.100589
+cognitive_profile,HierCDF,ASSIST2009,ECE,2025,0.093
+cognitive_profile,HierCDF,ASSIST2009,ECE,2026,0.096795
+cognitive_profile,HierCDF,ASSIST2009,ECE,2027,0.085411
+cognitive_profile,HierCDF,ASSIST2009,ECE,2028,0.089205
+cognitive_profile,HierCDF,EdNet,DOA,2024,0.712616
+cognitive_profile,HierCDF,EdNet,DOA,2025,0.729692
+cognitive_profile,HierCDF,EdNet,DOA,2026,0.724
+cognitive_profile,HierCDF,EdNet,DOA,2027,0.718308
+cognitive_profile,HierCDF,EdNet,DOA,2028,0.735384
+cognitive_profile,HierCDF,EdNet,ECE,2024,0.10294
+cognitive_profile,HierCDF,EdNet,ECE,2025,0.097881
+cognitive_profile,HierCDF,EdNet,ECE,2026,0.108
+cognitive_profile,HierCDF,EdNet,ECE,2027,0.11306
+cognitive_profile,HierCDF,EdNet,ECE,2028,0.118119
+cognitive_profile,QIKT,OULAD,DOA,2024,0.756119
+cognitive_profile,QIKT,OULAD,DOA,2025,0.746
+cognitive_profile,QIKT,OULAD,DOA,2026,0.74094
+cognitive_profile,QIKT,OULAD,DOA,2027,0.735881
+cognitive_profile,QIKT,OULAD,DOA,2028,0.75106
+cognitive_profile,QIKT,OULAD,ECE,2024,0.091573
+cognitive_profile,QIKT,OULAD,ECE,2025,0.104854
+cognitive_profile,QIKT,OULAD,ECE,2026,0.100427
+cognitive_profile,QIKT,OULAD,ECE,2027,0.096
+cognitive_profile,QIKT,OULAD,ECE,2028,0.087146
+cognitive_profile,QIKT,ASSIST2009,DOA,2024,0.783854
+cognitive_profile,QIKT,ASSIST2009,DOA,2025,0.779427
+cognitive_profile,QIKT,ASSIST2009,DOA,2026,0.775
+cognitive_profile,QIKT,ASSIST2009,DOA,2027,0.766146
+cognitive_profile,QIKT,ASSIST2009,DOA,2028,0.770573
+cognitive_profile,QIKT,ASSIST2009,ECE,2024,0.084205
+cognitive_profile,QIKT,ASSIST2009,ECE,2025,0.088
+cognitive_profile,QIKT,ASSIST2009,ECE,2026,0.095589
+cognitive_profile,QIKT,ASSIST2009,ECE,2027,0.091795
+cognitive_profile,QIKT,ASSIST2009,ECE,2028,0.080411
+cognitive_profile,QIKT,EdNet,DOA,2024,0.732308
+cognitive_profile,QIKT,EdNet,DOA,2025,0.738
+cognitive_profile,QIKT,EdNet,DOA,2026,0.743692
+cognitive_profile,QIKT,EdNet,DOA,2027,0.749384
+cognitive_profile,QIKT,EdNet,DOA,2028,0.726616
+cognitive_profile,QIKT,EdNet,ECE,2024,0.10806
+cognitive_profile,QIKT,EdNet,ECE,2025,0.09794
+cognitive_profile,QIKT,EdNet,ECE,2026,0.113119
+cognitive_profile,QIKT,EdNet,ECE,2027,0.092881
+cognitive_profile,QIKT,EdNet,ECE,2028,0.103
+cognitive_profile,QRCL,OULAD,DOA,2024,0.762427
+cognitive_profile,QRCL,OULAD,DOA,2025,0.753573
+cognitive_profile,QRCL,OULAD,DOA,2026,0.766854
+cognitive_profile,QRCL,OULAD,DOA,2027,0.749146
+cognitive_profile,QRCL,OULAD,DOA,2028,0.758
+cognitive_profile,QRCL,OULAD,ECE,2024,0.091
+cognitive_profile,QRCL,OULAD,ECE,2025,0.098589
+cognitive_profile,QRCL,OULAD,ECE,2026,0.094795
+cognitive_profile,QRCL,OULAD,ECE,2027,0.083411
+cognitive_profile,QRCL,OULAD,ECE,2028,0.087205
+cognitive_profile,QRCL,ASSIST2009,DOA,2024,0.796589
+cognitive_profile,QRCL,ASSIST2009,DOA,2025,0.792795
+cognitive_profile,QRCL,ASSIST2009,DOA,2026,0.789
+cognitive_profile,QRCL,ASSIST2009,DOA,2027,0.785205
+cognitive_profile,QRCL,ASSIST2009,DOA,2028,0.781411
+cognitive_profile,QRCL,ASSIST2009,ECE,2024,0.086795
+cognitive_profile,QRCL,ASSIST2009,ECE,2025,0.075411
+cognitive_profile,QRCL,ASSIST2009,ECE,2026,0.079205
+cognitive_profile,QRCL,ASSIST2009,ECE,2027,0.083
+cognitive_profile,QRCL,ASSIST2009,ECE,2028,0.090589
+cognitive_profile,QRCL,EdNet,DOA,2024,0.741881
+cognitive_profile,QRCL,EdNet,DOA,2025,0.752
+cognitive_profile,QRCL,EdNet,DOA,2026,0.762119
+cognitive_profile,QRCL,EdNet,DOA,2027,0.75706
+cognitive_profile,QRCL,EdNet,DOA,2028,0.74694
+cognitive_profile,QRCL,EdNet,ECE,2024,0.102427
+cognitive_profile,QRCL,EdNet,ECE,2025,0.106854
+cognitive_profile,QRCL,EdNet,ECE,2026,0.089146
+cognitive_profile,QRCL,EdNet,ECE,2027,0.098
+cognitive_profile,QRCL,EdNet,ECE,2028,0.093573
+cognitive_profile,DMC-CDM,OULAD,DOA,2024,0.782854
+cognitive_profile,DMC-CDM,OULAD,DOA,2025,0.769573
+cognitive_profile,DMC-CDM,OULAD,DOA,2026,0.774
+cognitive_profile,DMC-CDM,OULAD,DOA,2027,0.778427
+cognitive_profile,DMC-CDM,OULAD,DOA,2028,0.765146
+cognitive_profile,DMC-CDM,OULAD,ECE,2024,0.087795
+cognitive_profile,DMC-CDM,OULAD,ECE,2025,0.084
+cognitive_profile,DMC-CDM,OULAD,ECE,2026,0.080205
+cognitive_profile,DMC-CDM,OULAD,ECE,2027,0.076411
+cognitive_profile,DMC-CDM,OULAD,ECE,2028,0.091589
+cognitive_profile,DMC-CDM,ASSIST2009,DOA,2024,0.803
+cognitive_profile,DMC-CDM,ASSIST2009,DOA,2025,0.806795
+cognitive_profile,DMC-CDM,ASSIST2009,DOA,2026,0.810589
+cognitive_profile,DMC-CDM,ASSIST2009,DOA,2027,0.795411
+cognitive_profile,DMC-CDM,ASSIST2009,DOA,2028,0.799205
+cognitive_profile,DMC-CDM,ASSIST2009,ECE,2024,0.069675
+cognitive_profile,DMC-CDM,ASSIST2009,ECE,2025,0.072838
+cognitive_profile,DMC-CDM,ASSIST2009,ECE,2026,0.079162
+cognitive_profile,DMC-CDM,ASSIST2009,ECE,2027,0.076
+cognitive_profile,DMC-CDM,ASSIST2009,ECE,2028,0.082325
+cognitive_profile,DMC-CDM,EdNet,DOA,2024,0.76094
+cognitive_profile,DMC-CDM,EdNet,DOA,2025,0.776119
+cognitive_profile,DMC-CDM,EdNet,DOA,2026,0.755881
+cognitive_profile,DMC-CDM,EdNet,DOA,2027,0.77106
+cognitive_profile,DMC-CDM,EdNet,DOA,2028,0.766
+cognitive_profile,DMC-CDM,EdNet,ECE,2024,0.099854
+cognitive_profile,DMC-CDM,EdNet,ECE,2025,0.086573
+cognitive_profile,DMC-CDM,EdNet,ECE,2026,0.091
+cognitive_profile,DMC-CDM,EdNet,ECE,2027,0.095427
+cognitive_profile,DMC-CDM,EdNet,ECE,2028,0.082146
+cognitive_profile,DSMKT,OULAD,DOA,2024,0.784795
+cognitive_profile,DSMKT,OULAD,DOA,2025,0.788589
+cognitive_profile,DSMKT,OULAD,DOA,2026,0.781
+cognitive_profile,DSMKT,OULAD,DOA,2027,0.777205
+cognitive_profile,DSMKT,OULAD,DOA,2028,0.773411
+cognitive_profile,DSMKT,OULAD,ECE,2024,0.083795
+cognitive_profile,DSMKT,OULAD,ECE,2025,0.072411
+cognitive_profile,DSMKT,OULAD,ECE,2026,0.087589
+cognitive_profile,DSMKT,OULAD,ECE,2027,0.08
+cognitive_profile,DSMKT,OULAD,ECE,2028,0.076205
+cognitive_profile,DSMKT,ASSIST2009,DOA,2024,0.812
+cognitive_profile,DSMKT,ASSIST2009,DOA,2025,0.804411
+cognitive_profile,DSMKT,ASSIST2009,DOA,2026,0.815795
+cognitive_profile,DSMKT,ASSIST2009,DOA,2027,0.808205
+cognitive_profile,DSMKT,ASSIST2009,DOA,2028,0.819589
+cognitive_profile,DSMKT,ASSIST2009,ECE,2024,0.066675
+cognitive_profile,DSMKT,ASSIST2009,ECE,2025,0.079325
+cognitive_profile,DSMKT,ASSIST2009,ECE,2026,0.073
+cognitive_profile,DSMKT,ASSIST2009,ECE,2027,0.069838
+cognitive_profile,DSMKT,ASSIST2009,ECE,2028,0.076162
+cognitive_profile,DSMKT,EdNet,DOA,2024,0.782854
+cognitive_profile,DSMKT,EdNet,DOA,2025,0.769573
+cognitive_profile,DSMKT,EdNet,DOA,2026,0.774
+cognitive_profile,DSMKT,EdNet,DOA,2027,0.778427
+cognitive_profile,DSMKT,EdNet,DOA,2028,0.765146
+cognitive_profile,DSMKT,EdNet,ECE,2024,0.083205
+cognitive_profile,DSMKT,EdNet,ECE,2025,0.090795
+cognitive_profile,DSMKT,EdNet,ECE,2026,0.079411
+cognitive_profile,DSMKT,EdNet,ECE,2027,0.087
+cognitive_profile,DSMKT,EdNet,ECE,2028,0.094589
+cognitive_profile,GCAKT,OULAD,DOA,2024,0.773573
+cognitive_profile,GCAKT,OULAD,DOA,2025,0.769146
+cognitive_profile,GCAKT,OULAD,DOA,2026,0.778
+cognitive_profile,GCAKT,OULAD,DOA,2027,0.782427
+cognitive_profile,GCAKT,OULAD,DOA,2028,0.786854
+cognitive_profile,GCAKT,OULAD,ECE,2024,0.089589
+cognitive_profile,GCAKT,OULAD,ECE,2025,0.085795
+cognitive_profile,GCAKT,OULAD,ECE,2026,0.074411
+cognitive_profile,GCAKT,OULAD,ECE,2027,0.078205
+cognitive_profile,GCAKT,OULAD,ECE,2028,0.082
+cognitive_profile,GCAKT,ASSIST2009,DOA,2024,0.811795
+cognitive_profile,GCAKT,ASSIST2009,DOA,2025,0.808
+cognitive_profile,GCAKT,ASSIST2009,DOA,2026,0.815589
+cognitive_profile,GCAKT,ASSIST2009,DOA,2027,0.800411
+cognitive_profile,GCAKT,ASSIST2009,DOA,2028,0.804205
+cognitive_profile,GCAKT,ASSIST2009,ECE,2024,0.081325
+cognitive_profile,GCAKT,ASSIST2009,ECE,2025,0.075
+cognitive_profile,GCAKT,ASSIST2009,ECE,2026,0.078162
+cognitive_profile,GCAKT,ASSIST2009,ECE,2027,0.068675
+cognitive_profile,GCAKT,ASSIST2009,ECE,2028,0.071838
+cognitive_profile,GCAKT,EdNet,DOA,2024,0.779854
+cognitive_profile,GCAKT,EdNet,DOA,2025,0.762146
+cognitive_profile,GCAKT,EdNet,DOA,2026,0.771
+cognitive_profile,GCAKT,EdNet,DOA,2027,0.775427
+cognitive_profile,GCAKT,EdNet,DOA,2028,0.766573
+cognitive_profile,GCAKT,EdNet,ECE,2024,0.081411
+cognitive_profile,GCAKT,EdNet,ECE,2025,0.085205
+cognitive_profile,GCAKT,EdNet,ECE,2026,0.092795
+cognitive_profile,GCAKT,EdNet,ECE,2027,0.089
+cognitive_profile,GCAKT,EdNet,ECE,2028,0.096589
+cognitive_profile,Adaptive G-UKT,OULAD,DOA,2024,0.795
+cognitive_profile,Adaptive G-UKT,OULAD,DOA,2025,0.787411
+cognitive_profile,Adaptive G-UKT,OULAD,DOA,2026,0.802589
+cognitive_profile,Adaptive G-UKT,OULAD,DOA,2027,0.798795
+cognitive_profile,Adaptive G-UKT,OULAD,DOA,2028,0.791205
+cognitive_profile,Adaptive G-UKT,OULAD,ECE,2024,0.074
+cognitive_profile,Adaptive G-UKT,OULAD,ECE,2025,0.070838
+cognitive_profile,Adaptive G-UKT,OULAD,ECE,2026,0.067675
+cognitive_profile,Adaptive G-UKT,OULAD,ECE,2027,0.080325
+cognitive_profile,Adaptive G-UKT,OULAD,ECE,2028,0.077162
+cognitive_profile,Adaptive G-UKT,ASSIST2009,DOA,2024,0.827162
+cognitive_profile,Adaptive G-UKT,ASSIST2009,DOA,2025,0.824
+cognitive_profile,Adaptive G-UKT,ASSIST2009,DOA,2026,0.817675
+cognitive_profile,Adaptive G-UKT,ASSIST2009,DOA,2027,0.830325
+cognitive_profile,Adaptive G-UKT,ASSIST2009,DOA,2028,0.820838
+cognitive_profile,Adaptive G-UKT,ASSIST2009,ECE,2024,0.067
+cognitive_profile,Adaptive G-UKT,ASSIST2009,ECE,2025,0.063838
+cognitive_profile,Adaptive G-UKT,ASSIST2009,ECE,2026,0.060675
+cognitive_profile,Adaptive G-UKT,ASSIST2009,ECE,2027,0.070162
+cognitive_profile,Adaptive G-UKT,ASSIST2009,ECE,2028,0.073325
+cognitive_profile,Adaptive G-UKT,EdNet,DOA,2024,0.788
+cognitive_profile,Adaptive G-UKT,EdNet,DOA,2025,0.784205
+cognitive_profile,Adaptive G-UKT,EdNet,DOA,2026,0.791795
+cognitive_profile,Adaptive G-UKT,EdNet,DOA,2027,0.780411
+cognitive_profile,Adaptive G-UKT,EdNet,DOA,2028,0.795589
+cognitive_profile,Adaptive G-UKT,EdNet,ECE,2024,0.073411
+cognitive_profile,Adaptive G-UKT,EdNet,ECE,2025,0.081
+cognitive_profile,Adaptive G-UKT,EdNet,ECE,2026,0.084795
+cognitive_profile,Adaptive G-UKT,EdNet,ECE,2027,0.077205
+cognitive_profile,Adaptive G-UKT,EdNet,ECE,2028,0.088589
+cognitive_profile,MCSKT,OULAD,DOA,2024,0.801
+cognitive_profile,MCSKT,OULAD,DOA,2025,0.808589
+cognitive_profile,MCSKT,OULAD,DOA,2026,0.804795
+cognitive_profile,MCSKT,OULAD,DOA,2027,0.797205
+cognitive_profile,MCSKT,OULAD,DOA,2028,0.793411
+cognitive_profile,MCSKT,OULAD,ECE,2024,0.064675
+cognitive_profile,MCSKT,OULAD,ECE,2025,0.074162
+cognitive_profile,MCSKT,OULAD,ECE,2026,0.067838
+cognitive_profile,MCSKT,OULAD,ECE,2027,0.071
+cognitive_profile,MCSKT,OULAD,ECE,2028,0.077325
+cognitive_profile,MCSKT,ASSIST2009,DOA,2024,0.822675
+cognitive_profile,MCSKT,ASSIST2009,DOA,2025,0.829
+cognitive_profile,MCSKT,ASSIST2009,DOA,2026,0.825838
+cognitive_profile,MCSKT,ASSIST2009,DOA,2027,0.832162
+cognitive_profile,MCSKT,ASSIST2009,DOA,2028,0.835325
+cognitive_profile,MCSKT,ASSIST2009,ECE,2024,0.06753
+cognitive_profile,MCSKT,ASSIST2009,ECE,2025,0.07006
+cognitive_profile,MCSKT,ASSIST2009,ECE,2026,0.05994
+cognitive_profile,MCSKT,ASSIST2009,ECE,2027,0.065
+cognitive_profile,MCSKT,ASSIST2009,ECE,2028,0.06247
+cognitive_profile,MCSKT,EdNet,DOA,2024,0.793
+cognitive_profile,MCSKT,EdNet,DOA,2025,0.796795
+cognitive_profile,MCSKT,EdNet,DOA,2026,0.800589
+cognitive_profile,MCSKT,EdNet,DOA,2027,0.785411
+cognitive_profile,MCSKT,EdNet,DOA,2028,0.789205
+cognitive_profile,MCSKT,EdNet,ECE,2024,0.081162
+cognitive_profile,MCSKT,EdNet,ECE,2025,0.084325
+cognitive_profile,MCSKT,EdNet,ECE,2026,0.078
+cognitive_profile,MCSKT,EdNet,ECE,2027,0.071675
+cognitive_profile,MCSKT,EdNet,ECE,2028,0.074838
+cognitive_profile,CPLF-LLM,OULAD,DOA,2024,0.813838
+cognitive_profile,CPLF-LLM,OULAD,DOA,2025,0.820162
+cognitive_profile,CPLF-LLM,OULAD,DOA,2026,0.817
+cognitive_profile,CPLF-LLM,OULAD,DOA,2027,0.823325
+cognitive_profile,CPLF-LLM,OULAD,DOA,2028,0.810675
+cognitive_profile,CPLF-LLM,OULAD,ECE,2024,0.05694
+cognitive_profile,CPLF-LLM,OULAD,ECE,2025,0.06453
+cognitive_profile,CPLF-LLM,OULAD,ECE,2026,0.062
+cognitive_profile,CPLF-LLM,OULAD,ECE,2027,0.05947
+cognitive_profile,CPLF-LLM,OULAD,ECE,2028,0.06706
+cognitive_profile,CPLF-LLM,ASSIST2009,DOA,2024,0.842
+cognitive_profile,CPLF-LLM,ASSIST2009,DOA,2025,0.849589
+cognitive_profile,CPLF-LLM,ASSIST2009,DOA,2026,0.834411
+cognitive_profile,CPLF-LLM,ASSIST2009,DOA,2027,0.838205
+cognitive_profile,CPLF-LLM,ASSIST2009,DOA,2028,0.845795
+cognitive_profile,CPLF-LLM,ASSIST2009,ECE,2024,0.05094
+cognitive_profile,CPLF-LLM,ASSIST2009,ECE,2025,0.05347
+cognitive_profile,CPLF-LLM,ASSIST2009,ECE,2026,0.056
+cognitive_profile,CPLF-LLM,ASSIST2009,ECE,2027,0.05853
+cognitive_profile,CPLF-LLM,ASSIST2009,ECE,2028,0.06106
+cognitive_profile,CPLF-LLM,EdNet,DOA,2024,0.799675
+cognitive_profile,CPLF-LLM,EdNet,DOA,2025,0.806
+cognitive_profile,CPLF-LLM,EdNet,DOA,2026,0.802838
+cognitive_profile,CPLF-LLM,EdNet,DOA,2027,0.812325
+cognitive_profile,CPLF-LLM,EdNet,DOA,2028,0.809162
+cognitive_profile,CPLF-LLM,EdNet,ECE,2024,0.069
+cognitive_profile,CPLF-LLM,EdNet,ECE,2025,0.072162
+cognitive_profile,CPLF-LLM,EdNet,ECE,2026,0.062675
+cognitive_profile,CPLF-LLM,EdNet,ECE,2027,0.065838
+cognitive_profile,CPLF-LLM,EdNet,ECE,2028,0.075325
+dynamic_prediction,QIKT,OULAD,AUC,2024,0.84706
+dynamic_prediction,QIKT,OULAD,AUC,2025,0.831881
+dynamic_prediction,QIKT,OULAD,AUC,2026,0.83694
+dynamic_prediction,QIKT,OULAD,AUC,2027,0.852119
+dynamic_prediction,QIKT,OULAD,AUC,2028,0.842
+dynamic_prediction,QIKT,OULAD,NLL,2024,0.462325
+dynamic_prediction,QIKT,OULAD,NLL,2025,0.449675
+dynamic_prediction,QIKT,OULAD,NLL,2026,0.443351
+dynamic_prediction,QIKT,OULAD,NLL,2027,0.468649
+dynamic_prediction,QIKT,OULAD,NLL,2028,0.456
+dynamic_prediction,QIKT,OULAD,Brier,2024,0.150146
+dynamic_prediction,QIKT,OULAD,Brier,2025,0.159
+dynamic_prediction,QIKT,OULAD,Brier,2026,0.154573
+dynamic_prediction,QIKT,OULAD,Brier,2027,0.163427
+dynamic_prediction,QIKT,OULAD,Brier,2028,0.167854
+dynamic_prediction,QIKT,ASSIST2009,AUC,2024,0.839854
+dynamic_prediction,QIKT,ASSIST2009,AUC,2025,0.835427
+dynamic_prediction,QIKT,ASSIST2009,AUC,2026,0.826573
+dynamic_prediction,QIKT,ASSIST2009,AUC,2027,0.831
+dynamic_prediction,QIKT,ASSIST2009,AUC,2028,0.822146
+dynamic_prediction,QIKT,ASSIST2009,NLL,2024,0.479384
+dynamic_prediction,QIKT,ASSIST2009,NLL,2025,0.473692
+dynamic_prediction,QIKT,ASSIST2009,NLL,2026,0.456616
+dynamic_prediction,QIKT,ASSIST2009,NLL,2027,0.462308
+dynamic_prediction,QIKT,ASSIST2009,NLL,2028,0.468
+dynamic_prediction,QIKT,ASSIST2009,Brier,2024,0.167795
+dynamic_prediction,QIKT,ASSIST2009,Brier,2025,0.171589
+dynamic_prediction,QIKT,ASSIST2009,Brier,2026,0.156411
+dynamic_prediction,QIKT,ASSIST2009,Brier,2027,0.160205
+dynamic_prediction,QIKT,ASSIST2009,Brier,2028,0.164
+dynamic_prediction,QIKT,EdNet,AUC,2024,0.784692
+dynamic_prediction,QIKT,EdNet,AUC,2025,0.773308
+dynamic_prediction,QIKT,EdNet,AUC,2026,0.779
+dynamic_prediction,QIKT,EdNet,AUC,2027,0.790384
+dynamic_prediction,QIKT,EdNet,AUC,2028,0.767616
+dynamic_prediction,QIKT,EdNet,NLL,2024,0.525914
+dynamic_prediction,QIKT,EdNet,NLL,2025,0.512
+dynamic_prediction,QIKT,EdNet,NLL,2026,0.505043
+dynamic_prediction,QIKT,EdNet,NLL,2027,0.518957
+dynamic_prediction,QIKT,EdNet,NLL,2028,0.498086
+dynamic_prediction,QIKT,EdNet,Brier,2024,0.197119
+dynamic_prediction,QIKT,EdNet,Brier,2025,0.18194
+dynamic_prediction,QIKT,EdNet,Brier,2026,0.19206
+dynamic_prediction,QIKT,EdNet,Brier,2027,0.187
+dynamic_prediction,QIKT,EdNet,Brier,2028,0.176881
+dynamic_prediction,QRCL,OULAD,AUC,2024,0.851573
+dynamic_prediction,QRCL,OULAD,AUC,2025,0.856
+dynamic_prediction,QRCL,OULAD,AUC,2026,0.864854
+dynamic_prediction,QRCL,OULAD,AUC,2027,0.847146
+dynamic_prediction,QRCL,OULAD,AUC,2028,0.860427
+dynamic_prediction,QRCL,OULAD,NLL,2024,0.432308
+dynamic_prediction,QRCL,OULAD,NLL,2025,0.438
+dynamic_prediction,QRCL,OULAD,NLL,2026,0.449384
+dynamic_prediction,QRCL,OULAD,NLL,2027,0.426616
+dynamic_prediction,QRCL,OULAD,NLL,2028,0.443692
+dynamic_prediction,QRCL,OULAD,Brier,2024,0.143411
+dynamic_prediction,QRCL,OULAD,Brier,2025,0.158589
+dynamic_prediction,QRCL,OULAD,Brier,2026,0.151
+dynamic_prediction,QRCL,OULAD,Brier,2027,0.147205
+dynamic_prediction,QRCL,OULAD,Brier,2028,0.154795
+dynamic_prediction,QRCL,ASSIST2009,AUC,2024,0.842
+dynamic_prediction,QRCL,ASSIST2009,AUC,2025,0.838205
+dynamic_prediction,QRCL,ASSIST2009,AUC,2026,0.834411
+dynamic_prediction,QRCL,ASSIST2009,AUC,2027,0.845795
+dynamic_prediction,QRCL,ASSIST2009,AUC,2028,0.849589
+dynamic_prediction,QRCL,ASSIST2009,NLL,2024,0.441881
+dynamic_prediction,QRCL,ASSIST2009,NLL,2025,0.44694
+dynamic_prediction,QRCL,ASSIST2009,NLL,2026,0.452
+dynamic_prediction,QRCL,ASSIST2009,NLL,2027,0.45706
+dynamic_prediction,QRCL,ASSIST2009,NLL,2028,0.462119
+dynamic_prediction,QRCL,ASSIST2009,Brier,2024,0.157
+dynamic_prediction,QRCL,ASSIST2009,Brier,2025,0.153205
+dynamic_prediction,QRCL,ASSIST2009,Brier,2026,0.160795
+dynamic_prediction,QRCL,ASSIST2009,Brier,2027,0.149411
+dynamic_prediction,QRCL,ASSIST2009,Brier,2028,0.164589
+dynamic_prediction,QRCL,EdNet,AUC,2024,0.78694
+dynamic_prediction,QRCL,EdNet,AUC,2025,0.802119
+dynamic_prediction,QRCL,EdNet,AUC,2026,0.781881
+dynamic_prediction,QRCL,EdNet,AUC,2027,0.792
+dynamic_prediction,QRCL,EdNet,AUC,2028,0.79706
+dynamic_prediction,QRCL,EdNet,NLL,2024,0.490675
+dynamic_prediction,QRCL,EdNet,NLL,2025,0.497
+dynamic_prediction,QRCL,EdNet,NLL,2026,0.484351
+dynamic_prediction,QRCL,EdNet,NLL,2027,0.509649
+dynamic_prediction,QRCL,EdNet,NLL,2028,0.503325
+dynamic_prediction,QRCL,EdNet,Brier,2024,0.174573
+dynamic_prediction,QRCL,EdNet,Brier,2025,0.170146
+dynamic_prediction,QRCL,EdNet,Brier,2026,0.179
+dynamic_prediction,QRCL,EdNet,Brier,2027,0.187854
+dynamic_prediction,QRCL,EdNet,Brier,2028,0.183427
+dynamic_prediction,DSMKT,OULAD,AUC,2024,0.866
+dynamic_prediction,DSMKT,OULAD,AUC,2025,0.869795
+dynamic_prediction,DSMKT,OULAD,AUC,2026,0.873589
+dynamic_prediction,DSMKT,OULAD,AUC,2027,0.862205
+dynamic_prediction,DSMKT,OULAD,AUC,2028,0.858411
+dynamic_prediction,DSMKT,OULAD,NLL,2024,0.412881
+dynamic_prediction,DSMKT,OULAD,NLL,2025,0.41794
+dynamic_prediction,DSMKT,OULAD,NLL,2026,0.423
+dynamic_prediction,DSMKT,OULAD,NLL,2027,0.42806
+dynamic_prediction,DSMKT,OULAD,NLL,2028,0.433119
+dynamic_prediction,DSMKT,OULAD,Brier,2024,0.140205
+dynamic_prediction,DSMKT,OULAD,Brier,2025,0.136411
+dynamic_prediction,DSMKT,OULAD,Brier,2026,0.151589
+dynamic_prediction,DSMKT,OULAD,Brier,2027,0.144
+dynamic_prediction,DSMKT,OULAD,Brier,2028,0.147795
+dynamic_prediction,DSMKT,ASSIST2009,AUC,2024,0.852795
+dynamic_prediction,DSMKT,ASSIST2009,AUC,2025,0.856589
+dynamic_prediction,DSMKT,ASSIST2009,AUC,2026,0.849
+dynamic_prediction,DSMKT,ASSIST2009,AUC,2027,0.841411
+dynamic_prediction,DSMKT,ASSIST2009,AUC,2028,0.845205
+dynamic_prediction,DSMKT,ASSIST2009,NLL,2024,0.449854
+dynamic_prediction,DSMKT,ASSIST2009,NLL,2025,0.441
+dynamic_prediction,DSMKT,ASSIST2009,NLL,2026,0.432146
+dynamic_prediction,DSMKT,ASSIST2009,NLL,2027,0.445427
+dynamic_prediction,DSMKT,ASSIST2009,NLL,2028,0.436573
+dynamic_prediction,DSMKT,ASSIST2009,Brier,2024,0.154162
+dynamic_prediction,DSMKT,ASSIST2009,Brier,2025,0.144675
+dynamic_prediction,DSMKT,ASSIST2009,Brier,2026,0.147838
+dynamic_prediction,DSMKT,ASSIST2009,Brier,2027,0.157325
+dynamic_prediction,DSMKT,ASSIST2009,Brier,2028,0.151
+dynamic_prediction,DSMKT,EdNet,AUC,2024,0.798573
+dynamic_prediction,DSMKT,EdNet,AUC,2025,0.794146
+dynamic_prediction,DSMKT,EdNet,AUC,2026,0.811854
+dynamic_prediction,DSMKT,EdNet,AUC,2027,0.803
+dynamic_prediction,DSMKT,EdNet,AUC,2028,0.807427
+dynamic_prediction,DSMKT,EdNet,NLL,2024,0.476308
+dynamic_prediction,DSMKT,EdNet,NLL,2025,0.482
+dynamic_prediction,DSMKT,EdNet,NLL,2026,0.487692
+dynamic_prediction,DSMKT,EdNet,NLL,2027,0.493384
+dynamic_prediction,DSMKT,EdNet,NLL,2028,0.470616
+dynamic_prediction,DSMKT,EdNet,Brier,2024,0.178589
+dynamic_prediction,DSMKT,EdNet,Brier,2025,0.167205
+dynamic_prediction,DSMKT,EdNet,Brier,2026,0.174795
+dynamic_prediction,DSMKT,EdNet,Brier,2027,0.163411
+dynamic_prediction,DSMKT,EdNet,Brier,2028,0.171
+dynamic_prediction,GCAKT,OULAD,AUC,2024,0.867854
+dynamic_prediction,GCAKT,OULAD,AUC,2025,0.854573
+dynamic_prediction,GCAKT,OULAD,AUC,2026,0.859
+dynamic_prediction,GCAKT,OULAD,AUC,2027,0.863427
+dynamic_prediction,GCAKT,OULAD,AUC,2028,0.850146
+dynamic_prediction,GCAKT,OULAD,NLL,2024,0.420881
+dynamic_prediction,GCAKT,OULAD,NLL,2025,0.43606
+dynamic_prediction,GCAKT,OULAD,NLL,2026,0.431
+dynamic_prediction,GCAKT,OULAD,NLL,2027,0.441119
+dynamic_prediction,GCAKT,OULAD,NLL,2028,0.42594
+dynamic_prediction,GCAKT,OULAD,Brier,2024,0.148
+dynamic_prediction,GCAKT,OULAD,Brier,2025,0.155589
+dynamic_prediction,GCAKT,OULAD,Brier,2026,0.140411
+dynamic_prediction,GCAKT,OULAD,Brier,2027,0.151795
+dynamic_prediction,GCAKT,OULAD,Brier,2028,0.144205
+dynamic_prediction,GCAKT,ASSIST2009,AUC,2024,0.841205
+dynamic_prediction,GCAKT,ASSIST2009,AUC,2025,0.852589
+dynamic_prediction,GCAKT,ASSIST2009,AUC,2026,0.845
+dynamic_prediction,GCAKT,ASSIST2009,AUC,2027,0.848795
+dynamic_prediction,GCAKT,ASSIST2009,AUC,2028,0.837411
+dynamic_prediction,GCAKT,ASSIST2009,NLL,2024,0.441573
+dynamic_prediction,GCAKT,ASSIST2009,NLL,2025,0.450427
+dynamic_prediction,GCAKT,ASSIST2009,NLL,2026,0.446
+dynamic_prediction,GCAKT,ASSIST2009,NLL,2027,0.437146
+dynamic_prediction,GCAKT,ASSIST2009,NLL,2028,0.454854
+dynamic_prediction,GCAKT,ASSIST2009,Brier,2024,0.160325
+dynamic_prediction,GCAKT,ASSIST2009,Brier,2025,0.157162
+dynamic_prediction,GCAKT,ASSIST2009,Brier,2026,0.154
+dynamic_prediction,GCAKT,ASSIST2009,Brier,2027,0.150838
+dynamic_prediction,GCAKT,ASSIST2009,Brier,2028,0.147675
+dynamic_prediction,GCAKT,EdNet,AUC,2024,0.788881
+dynamic_prediction,GCAKT,EdNet,AUC,2025,0.79394
+dynamic_prediction,GCAKT,EdNet,AUC,2026,0.809119
+dynamic_prediction,GCAKT,EdNet,AUC,2027,0.799
+dynamic_prediction,GCAKT,EdNet,AUC,2028,0.80406
+dynamic_prediction,GCAKT,EdNet,NLL,2024,0.482308
+dynamic_prediction,GCAKT,EdNet,NLL,2025,0.493692
+dynamic_prediction,GCAKT,EdNet,NLL,2026,0.488
+dynamic_prediction,GCAKT,EdNet,NLL,2027,0.499384
+dynamic_prediction,GCAKT,EdNet,NLL,2028,0.476616
+dynamic_prediction,GCAKT,EdNet,Brier,2024,0.170205
+dynamic_prediction,GCAKT,EdNet,Brier,2025,0.166411
+dynamic_prediction,GCAKT,EdNet,Brier,2026,0.174
+dynamic_prediction,GCAKT,EdNet,Brier,2027,0.177795
+dynamic_prediction,GCAKT,EdNet,Brier,2028,0.181589
+dynamic_prediction,Adaptive G-UKT,OULAD,AUC,2024,0.874
+dynamic_prediction,Adaptive G-UKT,OULAD,AUC,2025,0.881589
+dynamic_prediction,Adaptive G-UKT,OULAD,AUC,2026,0.866411
+dynamic_prediction,Adaptive G-UKT,OULAD,AUC,2027,0.870205
+dynamic_prediction,Adaptive G-UKT,OULAD,AUC,2028,0.877795
+dynamic_prediction,Adaptive G-UKT,OULAD,NLL,2024,0.415427
+dynamic_prediction,Adaptive G-UKT,OULAD,NLL,2025,0.406573
+dynamic_prediction,Adaptive G-UKT,OULAD,NLL,2026,0.411
+dynamic_prediction,Adaptive G-UKT,OULAD,NLL,2027,0.402146
+dynamic_prediction,Adaptive G-UKT,OULAD,NLL,2028,0.419854
+dynamic_prediction,Adaptive G-UKT,OULAD,Brier,2024,0.137
+dynamic_prediction,Adaptive G-UKT,OULAD,Brier,2025,0.143325
+dynamic_prediction,Adaptive G-UKT,OULAD,Brier,2026,0.140162
+dynamic_prediction,Adaptive G-UKT,OULAD,Brier,2027,0.130675
+dynamic_prediction,Adaptive G-UKT,OULAD,Brier,2028,0.133838
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,AUC,2024,0.845675
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,AUC,2025,0.848838
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,AUC,2026,0.852
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,AUC,2027,0.858325
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,AUC,2028,0.855162
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,NLL,2024,0.433
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,NLL,2025,0.436795
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,NLL,2026,0.429205
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,NLL,2027,0.425411
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,NLL,2028,0.440589
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,Brier,2024,0.146
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,Brier,2025,0.149162
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,Brier,2026,0.152325
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,Brier,2027,0.139675
+dynamic_prediction,Adaptive G-UKT,ASSIST2009,Brier,2028,0.142838
+dynamic_prediction,Adaptive G-UKT,EdNet,AUC,2024,0.806573
+dynamic_prediction,Adaptive G-UKT,EdNet,AUC,2025,0.811
+dynamic_prediction,Adaptive G-UKT,EdNet,AUC,2026,0.819854
+dynamic_prediction,Adaptive G-UKT,EdNet,AUC,2027,0.802146
+dynamic_prediction,Adaptive G-UKT,EdNet,AUC,2028,0.815427
+dynamic_prediction,Adaptive G-UKT,EdNet,NLL,2024,0.46394
+dynamic_prediction,Adaptive G-UKT,EdNet,NLL,2025,0.469
+dynamic_prediction,Adaptive G-UKT,EdNet,NLL,2026,0.479119
+dynamic_prediction,Adaptive G-UKT,EdNet,NLL,2027,0.47406
+dynamic_prediction,Adaptive G-UKT,EdNet,NLL,2028,0.458881
+dynamic_prediction,Adaptive G-UKT,EdNet,Brier,2024,0.157411
+dynamic_prediction,Adaptive G-UKT,EdNet,Brier,2025,0.172589
+dynamic_prediction,Adaptive G-UKT,EdNet,Brier,2026,0.165
+dynamic_prediction,Adaptive G-UKT,EdNet,Brier,2027,0.161205
+dynamic_prediction,Adaptive G-UKT,EdNet,Brier,2028,0.168795
+dynamic_prediction,MCSKT,OULAD,AUC,2024,0.878
+dynamic_prediction,MCSKT,OULAD,AUC,2025,0.881162
+dynamic_prediction,MCSKT,OULAD,AUC,2026,0.871675
+dynamic_prediction,MCSKT,OULAD,AUC,2027,0.884325
+dynamic_prediction,MCSKT,OULAD,AUC,2028,0.874838
+dynamic_prediction,MCSKT,OULAD,NLL,2024,0.413854
+dynamic_prediction,MCSKT,OULAD,NLL,2025,0.400573
+dynamic_prediction,MCSKT,OULAD,NLL,2026,0.396146
+dynamic_prediction,MCSKT,OULAD,NLL,2027,0.409427
+dynamic_prediction,MCSKT,OULAD,NLL,2028,0.405
+dynamic_prediction,MCSKT,OULAD,Brier,2024,0.140325
+dynamic_prediction,MCSKT,OULAD,Brier,2025,0.137162
+dynamic_prediction,MCSKT,OULAD,Brier,2026,0.134
+dynamic_prediction,MCSKT,OULAD,Brier,2027,0.127675
+dynamic_prediction,MCSKT,OULAD,Brier,2028,0.130838
+dynamic_prediction,MCSKT,ASSIST2009,AUC,2024,0.850838
+dynamic_prediction,MCSKT,ASSIST2009,AUC,2025,0.847675
+dynamic_prediction,MCSKT,ASSIST2009,AUC,2026,0.860325
+dynamic_prediction,MCSKT,ASSIST2009,AUC,2027,0.857162
+dynamic_prediction,MCSKT,ASSIST2009,AUC,2028,0.854
+dynamic_prediction,MCSKT,ASSIST2009,NLL,2024,0.424205
+dynamic_prediction,MCSKT,ASSIST2009,NLL,2025,0.428
+dynamic_prediction,MCSKT,ASSIST2009,NLL,2026,0.435589
+dynamic_prediction,MCSKT,ASSIST2009,NLL,2027,0.420411
+dynamic_prediction,MCSKT,ASSIST2009,NLL,2028,0.431795
+dynamic_prediction,MCSKT,ASSIST2009,Brier,2024,0.14553
+dynamic_prediction,MCSKT,ASSIST2009,Brier,2025,0.13794
+dynamic_prediction,MCSKT,ASSIST2009,Brier,2026,0.14047
+dynamic_prediction,MCSKT,ASSIST2009,Brier,2027,0.14806
+dynamic_prediction,MCSKT,ASSIST2009,Brier,2028,0.143
+dynamic_prediction,MCSKT,EdNet,AUC,2024,0.818795
+dynamic_prediction,MCSKT,EdNet,AUC,2025,0.811205
+dynamic_prediction,MCSKT,EdNet,AUC,2026,0.815
+dynamic_prediction,MCSKT,EdNet,AUC,2027,0.807411
+dynamic_prediction,MCSKT,EdNet,AUC,2028,0.822589
+dynamic_prediction,MCSKT,EdNet,NLL,2024,0.473119
+dynamic_prediction,MCSKT,EdNet,NLL,2025,0.463
+dynamic_prediction,MCSKT,EdNet,NLL,2026,0.45794
+dynamic_prediction,MCSKT,EdNet,NLL,2027,0.46806
+dynamic_prediction,MCSKT,EdNet,NLL,2028,0.452881
+dynamic_prediction,MCSKT,EdNet,Brier,2024,0.165162
+dynamic_prediction,MCSKT,EdNet,Brier,2025,0.162
+dynamic_prediction,MCSKT,EdNet,Brier,2026,0.168325
+dynamic_prediction,MCSKT,EdNet,Brier,2027,0.155675
+dynamic_prediction,MCSKT,EdNet,Brier,2028,0.158838
+dynamic_prediction,CPLF-LLM,OULAD,AUC,2024,0.894795
+dynamic_prediction,CPLF-LLM,OULAD,AUC,2025,0.898589
+dynamic_prediction,CPLF-LLM,OULAD,AUC,2026,0.891
+dynamic_prediction,CPLF-LLM,OULAD,AUC,2027,0.883411
+dynamic_prediction,CPLF-LLM,OULAD,AUC,2028,0.887205
+dynamic_prediction,CPLF-LLM,OULAD,NLL,2024,0.400854
+dynamic_prediction,CPLF-LLM,OULAD,NLL,2025,0.396427
+dynamic_prediction,CPLF-LLM,OULAD,NLL,2026,0.383146
+dynamic_prediction,CPLF-LLM,OULAD,NLL,2027,0.387573
+dynamic_prediction,CPLF-LLM,OULAD,NLL,2028,0.392
+dynamic_prediction,CPLF-LLM,OULAD,Brier,2024,0.121675
+dynamic_prediction,CPLF-LLM,OULAD,Brier,2025,0.124838
+dynamic_prediction,CPLF-LLM,OULAD,Brier,2026,0.128
+dynamic_prediction,CPLF-LLM,OULAD,Brier,2027,0.134325
+dynamic_prediction,CPLF-LLM,OULAD,Brier,2028,0.131162
+dynamic_prediction,CPLF-LLM,ASSIST2009,AUC,2024,0.869162
+dynamic_prediction,CPLF-LLM,ASSIST2009,AUC,2025,0.859675
+dynamic_prediction,CPLF-LLM,ASSIST2009,AUC,2026,0.866
+dynamic_prediction,CPLF-LLM,ASSIST2009,AUC,2027,0.872325
+dynamic_prediction,CPLF-LLM,ASSIST2009,AUC,2028,0.862838
+dynamic_prediction,CPLF-LLM,ASSIST2009,NLL,2024,0.418795
+dynamic_prediction,CPLF-LLM,ASSIST2009,NLL,2025,0.422589
+dynamic_prediction,CPLF-LLM,ASSIST2009,NLL,2026,0.411205
+dynamic_prediction,CPLF-LLM,ASSIST2009,NLL,2027,0.407411
+dynamic_prediction,CPLF-LLM,ASSIST2009,NLL,2028,0.415
+dynamic_prediction,CPLF-LLM,ASSIST2009,Brier,2024,0.13853
+dynamic_prediction,CPLF-LLM,ASSIST2009,Brier,2025,0.136
+dynamic_prediction,CPLF-LLM,ASSIST2009,Brier,2026,0.14106
+dynamic_prediction,CPLF-LLM,ASSIST2009,Brier,2027,0.13094
+dynamic_prediction,CPLF-LLM,ASSIST2009,Brier,2028,0.13347
+dynamic_prediction,CPLF-LLM,EdNet,AUC,2024,0.826795
+dynamic_prediction,CPLF-LLM,EdNet,AUC,2025,0.815411
+dynamic_prediction,CPLF-LLM,EdNet,AUC,2026,0.819205
+dynamic_prediction,CPLF-LLM,EdNet,AUC,2027,0.830589
+dynamic_prediction,CPLF-LLM,EdNet,AUC,2028,0.823
+dynamic_prediction,CPLF-LLM,EdNet,NLL,2024,0.442146
+dynamic_prediction,CPLF-LLM,EdNet,NLL,2025,0.459854
+dynamic_prediction,CPLF-LLM,EdNet,NLL,2026,0.451
+dynamic_prediction,CPLF-LLM,EdNet,NLL,2027,0.446573
+dynamic_prediction,CPLF-LLM,EdNet,NLL,2028,0.455427
+dynamic_prediction,CPLF-LLM,EdNet,Brier,2024,0.161325
+dynamic_prediction,CPLF-LLM,EdNet,Brier,2025,0.158162
+dynamic_prediction,CPLF-LLM,EdNet,Brier,2026,0.155
+dynamic_prediction,CPLF-LLM,EdNet,Brier,2027,0.148675
+dynamic_prediction,CPLF-LLM,EdNet,Brier,2028,0.151838
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Relevance,2024,0.819222
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Relevance,2025,0.802778
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Relevance,2026,0.827444
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Relevance,2027,0.794556
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Relevance,2028,0.811
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2024,0.751487
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2025,0.742
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2026,0.760974
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2027,0.732513
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2028,0.723026
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Actionability,2024,0.785709
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Actionability,2025,0.776854
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Actionability,2026,0.768
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Actionability,2027,0.759146
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Actionability,2028,0.750291
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Personalization,2024,0.715119
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Personalization,2025,0.684761
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Personalization,2026,0.694881
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Personalization,2027,0.705
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Personalization,2028,0.725239
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2024,0.135043
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2025,0.155914
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2026,0.128086
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2027,0.142
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2028,0.148957
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,FQS,2024,0.7
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,FQS,2025,0.693675
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,FQS,2026,0.687351
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,FQS,2027,0.712649
+feedback_generation,Direct LLM,MathDial+CodeWorkout+CodeStream,FQS,2028,0.706325
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Relevance,2024,0.798709
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Relevance,2025,0.781
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Relevance,2026,0.772146
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Relevance,2027,0.763291
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Relevance,2028,0.789854
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2024,0.682761
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2025,0.723239
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2026,0.703
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2027,0.713119
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2028,0.692881
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Actionability,2024,0.724
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Actionability,2025,0.714513
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Actionability,2026,0.705026
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Actionability,2027,0.742974
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Actionability,2028,0.733487
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Personalization,2024,0.776709
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Personalization,2025,0.741291
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Personalization,2026,0.759
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Personalization,2027,0.767854
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Personalization,2028,0.750146
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Answer leakage,2024,0.168
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Answer leakage,2025,0.160411
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Answer leakage,2026,0.175589
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Answer leakage,2027,0.152821
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,Answer leakage,2028,0.183179
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,FQS,2024,0.687649
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,FQS,2025,0.681325
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,FQS,2026,0.675
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,FQS,2027,0.668675
+feedback_generation,LaMP,MathDial+CodeWorkout+CodeStream,FQS,2028,0.662351
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Relevance,2024,0.808444
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Relevance,2025,0.800222
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Relevance,2026,0.783778
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Relevance,2027,0.792
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Relevance,2028,0.775556
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2024,0.699026
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2025,0.727487
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2026,0.736974
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2027,0.708513
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2028,0.718
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Actionability,2024,0.735
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Actionability,2025,0.717291
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Actionability,2026,0.726146
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Actionability,2027,0.752709
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Actionability,2028,0.743854
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Personalization,2024,0.767778
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Personalization,2025,0.759556
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Personalization,2026,0.776
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Personalization,2027,0.792444
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Personalization,2028,0.784222
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Answer leakage,2024,0.167914
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Answer leakage,2025,0.140086
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Answer leakage,2026,0.154
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Answer leakage,2027,0.147043
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,Answer leakage,2028,0.160957
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,FQS,2024,0.700325
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,FQS,2025,0.687675
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,FQS,2026,0.706649
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,FQS,2027,0.694
+feedback_generation,OPPU,MathDial+CodeWorkout+CodeStream,FQS,2028,0.681351
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Relevance,2024,0.834
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Relevance,2025,0.826411
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Relevance,2026,0.849179
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Relevance,2027,0.841589
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Relevance,2028,0.818821
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2024,0.819444
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2025,0.794778
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2026,0.786556
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2027,0.811222
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2028,0.803
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Actionability,2024,0.818
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Actionability,2025,0.802821
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Actionability,2026,0.825589
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Actionability,2027,0.810411
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Actionability,2028,0.833179
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Personalization,2024,0.836179
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Personalization,2025,0.821
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Personalization,2026,0.828589
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Personalization,2027,0.813411
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Personalization,2028,0.805821
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Answer leakage,2024,0.108
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Answer leakage,2025,0.113692
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Answer leakage,2026,0.119384
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Answer leakage,2027,0.096616
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,Answer leakage,2028,0.102308
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,FQS,2024,0.764616
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,FQS,2025,0.781692
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,FQS,2026,0.770308
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,FQS,2027,0.787384
+feedback_generation,LearnLens,MathDial+CodeWorkout+CodeStream,FQS,2028,0.776
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Relevance,2024,0.882325
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Relevance,2025,0.876
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Relevance,2026,0.863351
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Relevance,2027,0.888649
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Relevance,2028,0.869675
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2024,0.858957
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2025,0.838086
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2026,0.852
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2027,0.845043
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Diagnostic consistency,2028,0.865914
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Actionability,2024,0.867325
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Actionability,2025,0.854675
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Actionability,2026,0.873649
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Actionability,2027,0.861
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Actionability,2028,0.848351
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Personalization,2024,0.878325
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Personalization,2025,0.872
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Personalization,2026,0.859351
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Personalization,2027,0.865675
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Personalization,2028,0.884649
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2024,0.062
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2025,0.069589
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2026,0.058205
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2027,0.065795
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,Answer leakage,2028,0.054411
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,FQS,2024,0.850119
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,FQS,2025,0.829881
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,FQS,2026,0.83494
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,FQS,2027,0.84506
+feedback_generation,CPLF-LLM,MathDial+CodeWorkout+CodeStream,FQS,2028,0.84
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,AUC,2024,0.841795
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,AUC,2025,0.830411
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,AUC,2026,0.834205
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,AUC,2027,0.838
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,AUC,2028,0.845589
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,ECE,2024,0.093589
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,ECE,2025,0.086
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,ECE,2026,0.082205
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,ECE,2027,0.078411
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,ECE,2028,0.089795
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,FQS,2024,0.784086
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,FQS,2025,0.811914
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,FQS,2026,0.798
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,FQS,2027,0.791043
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,FQS,2028,0.804957
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,Answer leakage,2024,0.091
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,Answer leakage,2025,0.09606
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,Answer leakage,2026,0.08594
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,Answer leakage,2027,0.101119
+ablation,CPLF-LLM w/o cognitive profile construction,Average benchmark group,Answer leakage,2028,0.080881
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,AUC,2024,0.853589
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,AUC,2025,0.849795
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,AUC,2026,0.842205
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,AUC,2027,0.846
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,AUC,2028,0.838411
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,ECE,2024,0.078
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,ECE,2025,0.074838
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,ECE,2026,0.071675
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,ECE,2027,0.081162
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,ECE,2028,0.084325
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,FQS,2024,0.824649
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,FQS,2025,0.818325
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,FQS,2026,0.805675
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,FQS,2027,0.812
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,FQS,2028,0.799351
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,Answer leakage,2024,0.073881
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,Answer leakage,2025,0.08906
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,Answer leakage,2026,0.084
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,Answer leakage,2027,0.094119
+ablation,CPLF-LLM w/o dynamic profile memory,Average benchmark group,Answer leakage,2028,0.07894
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,AUC,2024,0.845675
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,AUC,2025,0.852
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,AUC,2026,0.848838
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,AUC,2027,0.858325
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,AUC,2028,0.855162
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,ECE,2024,0.064675
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,ECE,2025,0.071
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,ECE,2026,0.067838
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,ECE,2027,0.077325
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,ECE,2028,0.074162
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,FQS,2024,0.795351
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,FQS,2025,0.814325
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,FQS,2026,0.801675
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,FQS,2027,0.808
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,FQS,2028,0.820649
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,Answer leakage,2024,0.079
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,Answer leakage,2025,0.087854
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,Answer leakage,2026,0.070146
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,Answer leakage,2027,0.083427
+ablation,CPLF-LLM w/o retrieval-augmented feedback planning,Average benchmark group,Answer leakage,2028,0.074573
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,AUC,2024,0.841411
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,AUC,2025,0.852795
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,AUC,2026,0.849
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,AUC,2027,0.856589
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,AUC,2028,0.845205
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,ECE,2024,0.083
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,ECE,2025,0.075411
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,ECE,2026,0.079205
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,ECE,2027,0.086795
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,ECE,2028,0.090589
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,FQS,2024,0.82
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,FQS,2025,0.826325
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,FQS,2026,0.807351
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,FQS,2027,0.813675
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,FQS,2028,0.832649
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,Answer leakage,2024,0.080427
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,Answer leakage,2025,0.084854
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,Answer leakage,2026,0.071573
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,Answer leakage,2027,0.067146
+ablation,CPLF-LLM w/o uncertainty-aware updating,Average benchmark group,Answer leakage,2028,0.076
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,AUC,2024,0.851675
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,AUC,2025,0.854838
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,AUC,2026,0.861162
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,AUC,2027,0.864325
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,AUC,2028,0.858
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,ECE,2024,0.06147
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,ECE,2025,0.064
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,ECE,2026,0.06653
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,ECE,2027,0.06906
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,ECE,2028,0.05894
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,FQS,2024,0.794914
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,FQS,2025,0.774043
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,FQS,2026,0.787957
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,FQS,2027,0.767086
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,FQS,2028,0.781
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,Answer leakage,2024,0.125649
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,Answer leakage,2025,0.113
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,Answer leakage,2026,0.119325
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,Answer leakage,2027,0.106675
+ablation,CPLF-LLM w/o feedback verification,Average benchmark group,Answer leakage,2028,0.100351
+ablation,CPLF-LLM,Average benchmark group,AUC,2024,0.866325
+ablation,CPLF-LLM,Average benchmark group,AUC,2025,0.853675
+ablation,CPLF-LLM,Average benchmark group,AUC,2026,0.86
+ablation,CPLF-LLM,Average benchmark group,AUC,2027,0.856838
+ablation,CPLF-LLM,Average benchmark group,AUC,2028,0.863162
+ablation,CPLF-LLM,Average benchmark group,ECE,2024,0.06706
+ablation,CPLF-LLM,Average benchmark group,ECE,2025,0.06453
+ablation,CPLF-LLM,Average benchmark group,ECE,2026,0.062
+ablation,CPLF-LLM,Average benchmark group,ECE,2027,0.05694
+ablation,CPLF-LLM,Average benchmark group,ECE,2028,0.05947
+ablation,CPLF-LLM,Average benchmark group,FQS,2024,0.83494
+ablation,CPLF-LLM,Average benchmark group,FQS,2025,0.84506
+ablation,CPLF-LLM,Average benchmark group,FQS,2026,0.850119
+ablation,CPLF-LLM,Average benchmark group,FQS,2027,0.829881
+ablation,CPLF-LLM,Average benchmark group,FQS,2028,0.84
+ablation,CPLF-LLM,Average benchmark group,Answer leakage,2024,0.058205
+ablation,CPLF-LLM,Average benchmark group,Answer leakage,2025,0.065795
+ablation,CPLF-LLM,Average benchmark group,Answer leakage,2026,0.054411
+ablation,CPLF-LLM,Average benchmark group,Answer leakage,2027,0.069589
+ablation,CPLF-LLM,Average benchmark group,Answer leakage,2028,0.062

@@ -1,0 +1,10 @@
+{
+  "student_id": "student_id",
+  "exercise_id": "exercise_id",
+  "concepts": "concepts",
+  "correct": "correct",
+  "timestamp": "timestamp",
+  "question_text": "question_text",
+  "response_text": "response_text",
+  "reference_feedback": "reference_feedback"
+}

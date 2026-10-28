@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the CPLF-LLM manuscript when using this computational release."
+title: "CPLF-LLM computational protocol and reproducibility results"
+type: software
+authors:
+  - family-names: Li
+    given-names: Zan
+  - family-names: Ren
+    given-names: Yuheng
+  - family-names: Lu
+    given-names: Fan
+version: "1.2.0"
+date-released: 2026-10-28
+repository-code: "https://github.com/coderfly-hue/CPLF"
+abstract: "Executable computational protocol, model configuration, prompt templates, fixed splits, machine-readable results and statistical comparisons for CPLF-LLM."

@@ -1,0 +1,4 @@
+# Tested plotting/CSV rebuild environment, distinct from historical GPU training.
+matplotlib==3.10.8
+numpy>=1.26
+pandas>=2.2
