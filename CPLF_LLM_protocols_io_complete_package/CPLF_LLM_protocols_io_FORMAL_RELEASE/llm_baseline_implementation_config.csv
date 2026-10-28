@@ -1,6 +1,0 @@
-method,backbone,revision,adaptation,input_information,retrieval_or_planning,cplf_verification,role
-Direct LLM,Qwen/Qwen2.5-7B-Instruct,acbd96531cda22292a3ceaa67e984955d3965282,same as CPLF-LLM,task + current learner response,none,no,same-backbone control
-LaMP,Qwen2.5-7B-Instruct where backbone replacement is permitted,same common revision where applicable,published LaMP procedure,user-history/profile information defined by LaMP,LaMP personalization/retrieval,no CPLF verifier,general personalization baseline
-OPPU,Qwen2.5-7B-Instruct where backbone replacement is permitted,same common revision where applicable,published OPPU PEFT procedure,user-specific adaptation signal defined by OPPU,OPPU personalized PEFT,no CPLF verifier,general personalization baseline
-LearnLens,Qwen2.5-7B-Instruct where backbone replacement is permitted,same common revision where applicable,published LearnLens procedure,task/curriculum + supported learner-error information,curriculum-grounded feedback structure,no CPLF verifier,educational feedback baseline
-CPLF-LLM,Qwen/Qwen2.5-7B-Instruct,acbd96531cda22292a3ceaa67e984955d3965282,LoRA r16 alpha32 dropout0.05 q/k/v/o,task + response + cognitive profile + gaps + misconception cues + uncertainty,BGE top-K=5 + structured plan,yes,proposed framework

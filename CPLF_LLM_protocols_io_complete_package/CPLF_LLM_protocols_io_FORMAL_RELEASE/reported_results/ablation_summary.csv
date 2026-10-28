@@ -1,7 +1,0 @@
-variant,auc_mean,auc_sd,ece_mean,ece_sd,fqs_mean,fqs_sd,answer_leakage_mean,answer_leakage_sd
-w/o cognitive profile construction,0.838,0.006,0.086,0.006,0.798,0.011,0.091,0.008
-w/o dynamic profile memory,0.846,0.006,0.078,0.005,0.812,0.01,0.084,0.008
-w/o retrieval-augmented feedback planning,0.852,0.005,0.071,0.005,0.808,0.01,0.079,0.007
-w/o uncertainty-aware updating,0.849,0.006,0.083,0.006,0.82,0.01,0.076,0.007
-w/o feedback verification,0.858,0.005,0.064,0.004,0.781,0.011,0.113,0.01
-CPLF-LLM,0.86,0.005,0.062,0.004,0.84,0.008,0.062,0.006

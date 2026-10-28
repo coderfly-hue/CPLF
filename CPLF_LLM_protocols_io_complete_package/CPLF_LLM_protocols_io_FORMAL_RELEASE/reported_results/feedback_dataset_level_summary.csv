@@ -1,6 +1,0 @@
-method,mathdial_mean,mathdial_sd,codeworkout_mean,codeworkout_sd,codestream_mean,codestream_sd
-Direct LLM,0.716,0.013,0.69,0.014,0.694,0.013
-LaMP,0.689,0.014,0.666,0.015,0.67,0.014
-OPPU,0.708,0.013,0.686,0.014,0.688,0.013
-LearnLens,0.792,0.011,0.766,0.012,0.77,0.012
-CPLF-LLM,0.854,0.009,0.828,0.01,0.838,0.009

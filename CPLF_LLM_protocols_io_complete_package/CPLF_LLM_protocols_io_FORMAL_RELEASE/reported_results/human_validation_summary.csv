@@ -1,6 +1,0 @@
-dimension,icc_2k,automated_vs_human_spearman_rho
-Diagnostic consistency,0.84,0.79
-Actionability,0.81,0.77
-Personalization,0.83,0.8
-Answer leakage,0.88,0.86
-Overall FQS,0.85,0.82
